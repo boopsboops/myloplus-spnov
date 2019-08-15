@@ -11,3 +11,15 @@ beast -beagle_auto -overwrite -seed 1408192 pacus.haps.trimmed.run2.xml
 
 # beast run3
 beast -beagle_auto -overwrite -seed 1408193 pacus.haps.trimmed.run3.xml
+
+# check with tracer
+tracer pacus.haps.trimmed.run1.log pacus.haps.trimmed.run2.log pacus.haps.trimmed.run3.log
+
+# combine the trees
+./tree-combiner.sh ../temp-local-only/pacus.haps.trimmed.run1.trees ../temp-local-only/pacus.haps.trimmed.run2.trees ../temp-local-only/pacus.haps.trimmed.run3.trees ../temp-local-only/pacus.haps.trimmed.combined.trees 336 ../temp-local-only/pacus.haps.trimmed.combined.tre
+
+# check with figtree
+figtree ../temp-local-only/pacus.haps.trimmed.combined.tre
+
+# copy to data dir
+cp ../temp-local-only/pacus.haps.trimmed.combined.tre ../data/pacus.COI.tre
