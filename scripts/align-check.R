@@ -7,6 +7,7 @@ library("ips")
 library("phangorn")
 source("https://raw.githubusercontent.com/legalLab/protocols-scripts/master/scripts/hapCollapse.R")
 
+
 # read data
 tissues.df <- read_csv("../data/tissues-master.csv")
 
@@ -52,3 +53,16 @@ pacus.coi.haps <- hapCollapse(data=pacus.coi,cores=8)
 pacus.coi.haps.mat <- as.matrix(mafft(pacus.coi.haps,exec="mafft"))
 pacus.coi.haps.mat.trimmed <- pacus.coi.haps.mat[,49:669]
 write.nexus.data(pacus.coi.haps.mat.trimmed,file="../temp-local-only/pacus.haps.trimmed.nex",format="dna",interleaved=FALSE)
+
+# sample trees from beast 
+trees.combined <- read.nexus(file="../temp-local-only/pacus.haps.trimmed.combined.trees")
+
+# remove burnin
+trees.combined <- trees.combined[337:3336]
+
+# trees subsampled
+set.seed(42)
+trees.subsampled <- sample(trees.combined,1000)
+
+# write out 
+write.nexus(trees.subsampled, file="../data/pacus.COI.trees")
