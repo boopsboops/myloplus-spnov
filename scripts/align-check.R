@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-
+# rm(list = ls())
 library("ape")
 library("tidyverse")
 library("magrittr")
@@ -10,22 +10,20 @@ source("https://raw.githubusercontent.com/legalLab/protocols-scripts/master/scri
 
 # read data
 tissues.df <- read_csv("../data/tissues-master.csv")
+# get seqs from GenBank
+pull(tissues.df,associatedSequences)[!is.na(pull(tissues.df,associatedSequences))]
+pacus.gb <- read.GenBank(access.nb=pull(tissues.df,associatedSequences)[!is.na(pull(tissues.df,associatedSequences))],species.names=FALSE)
 
-# make a label col
-tissues.df %<>% mutate(label=if_else(taxonRank=="species",paste(catalogNumber,genus,specificEpithet,waterBody),paste(catalogNumber,genus,identificationQualifier,waterBody)))
-
-# read fas
-pacus.coi <- read.FASTA("../data/pacus-COI.fasta")
-
-# check names
-setdiff(names(pacus.coi), pull(tissues.df,catalogNumber))
-setdiff(pull(tissues.df,catalogNumber),names(pacus.coi))
+# join with new seqs
+pacus.new <- read.FASTA("../data/pacus-COI-new.fasta")
+pacus.coi <- c(pacus.gb,pacus.new)
 
 # align
 pacus.coi.mat <- as.matrix(mafft(pacus.coi,exec="mafft"))
+write.FASTA(pacus.coi.mat,"../temp/pacus.coi.fasta")
 
 # trim after checking in geneious
-pacus.coi.mat.trimmed <- pacus.coi.mat[,49:669]
+pacus.coi.mat.trimmed <- pacus.coi.mat[,70:690]
 
 # make a tree
 pacus.tr <- nj(dist.dna(pacus.coi.mat.trimmed,model="raw",pairwise.deletion=TRUE))
@@ -34,13 +32,17 @@ pacus.tr <- nj(dist.dna(pacus.coi.mat.trimmed,model="raw",pairwise.deletion=TRUE
 pacus.tr <- ladderize(midpoint(pacus.tr))
 
 # make nice labels
-pacus.tr$tip.label <- tissues.df$label[match(pacus.tr$tip.label,tissues.df$catalogNumber)]
+tissues.df %<>% mutate(identifier=if_else(!is.na(associatedSequences),associatedSequences,otherCatalogNumbers)) %>%
+    mutate(label=if_else(taxonRank!="species" | !is.na(identificationQualifier), paste0(identifier," ",genus," ",identificationQualifier," (",waterBody,")"), paste0(identifier," ",genus," ",specificEpithet," (",waterBody,")"))) 
+
+# match
+pacus.tr$tip.label <- tissues.df$label[match(pacus.tr$tip.label,tissues.df$identifier)]
 
 # remove neg branches
 pacus.tr$edge.length[which(pacus.tr$edge.length<0)] <- 0
 
 # write out the tree
-pdf(file="../temp/nj.tree.pdf",width=30,height=60)
+pdf(file="../temp/nj.tree.406.pdf",width=30,height=80)
 plot.phylo(pacus.tr,no.margin=TRUE,font=1,label.offset=0.0001)
 dev.off()
 
@@ -51,7 +53,7 @@ write.nexus.data(pacus.coi.mat.trimmed,file="../temp-local-only/pacus.trimmed.ne
 # to same for haplotypes only
 pacus.coi.haps <- hapCollapse(data=pacus.coi,cores=8)
 pacus.coi.haps.mat <- as.matrix(mafft(pacus.coi.haps,exec="mafft"))
-pacus.coi.haps.mat.trimmed <- pacus.coi.haps.mat[,49:669]
+pacus.coi.haps.mat.trimmed <- pacus.coi.haps.mat[,70:690]
 write.nexus.data(pacus.coi.haps.mat.trimmed,file="../temp-local-only/pacus.haps.trimmed.nex",format="dna",interleaved=FALSE)
 
 # sample trees from beast 
@@ -66,3 +68,38 @@ trees.subsampled <- sample(trees.combined,1000)
 
 # write out 
 write.nexus(trees.subsampled, file="../data/pacus.COI.trees")
+
+
+# old checl code
+
+
+sup.df <- read_csv("../../serrasalmids/data/supplementary_table1.csv")
+
+# species not in 
+sup.df.my <- sup.df %>% filter(genus=="Tometes" | genus=="Myloplus" | genus=="Mylesinus" | genus=="Myleus" | genus=="Ossubtus" | genus=="Utiaritichthys" | genus=="Acnodon")
+tissues.df.my <- tissues.df %>% filter(genus=="Tometes" | genus=="Myloplus" | genus=="Mylesinus" | genus=="Myleus" | genus=="Ossubtus" | genus=="Utiaritichthys" | genus=="Acnodon")
+
+# read fas
+pacus.coi <- read.FASTA("../data/pacus-COI.fasta")
+
+# make a label col
+#tissues.df %<>% mutate(label=if_else(taxonRank=="species",paste(catalogNumber,genus,specificEpithet,waterBody),paste(catalogNumber,genus,identificationQualifier,waterBody)))
+
+# check names
+setdiff(pull(sup.df.my,otherCatalogNumbers),pull(tissues.df.my,catalogNumber))
+setdiff(pull(tissues.df.my,catalogNumber),pull(sup.df.my,otherCatalogNumbers))
+
+setdiff(names(pacus.coi), pull(tissues.df.my,catalogNumber))
+setdiff(pull(tissues.df.my,catalogNumber),names(pacus.coi))
+
+setdiff(names(pacus.coi), pull(sup.df.my,otherCatalogNumbers))# in fasta, not in machado2019
+setdiff(pull(sup.df.my,otherCatalogNumbers),names(pacus.coi))# in machado2019, not in fasta
+
+# subset the new ones from the fasta and df
+pacus.coi.new <-  pacus.coi[setdiff(names(pacus.coi), pull(sup.df.my,otherCatalogNumbers))]
+tissues.df.my.new <- tissues.df.my %>% filter(catalogNumber %in% setdiff(names(pacus.coi), pull(sup.df.my,otherCatalogNumbers)))
+# write out
+write.FASTA(pacus.coi.new,file="../data/pacus-COI-new.fasta")
+write_csv(tissues.df.my.new,path="../data/tissues-new.csv")
+write_csv(sup.df.my,path="../data/tissues-master.csv")
+
