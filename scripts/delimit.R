@@ -177,6 +177,6 @@ cols <- sample(getPalette(n=length(as.character(unique(unlist(ccc.df))))))
 p <- ggtree(btr.haps.beast, ladderize=TRUE, color="grey50", size=0.8) + xlim(0,60)
 p <- p %<+% ftab
 p <- p + geom_tiplab(aes(label=lab), size=3) + geom_point2(aes(subset=!is.na(posterior) & posterior >= 0.95), color="orange", size=1.25)# color=gr
-p <- gheatmap(p=p, data=ccc.df, width=0.5, offset=22) + scale_fill_manual(values=cols) + theme(legend.position="none")
+p <- gheatmap(p=p, data=ccc.df, width=0.5, offset=20) + scale_fill_manual(values=cols) + theme(legend.position="none")
 ggsave(plot=p, filename="../temp/delim_all2.pdf", width=14, height=30, bg="transparent", limitsize=FALSE)
 rm(p)
