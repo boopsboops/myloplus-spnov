@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-
+# rm(list = ls())
 library("ape")
 library("phangorn")
 library("tidyverse")
@@ -22,8 +22,9 @@ btr.haps <- ladderize(read.nexus(file="../data/pacus.COI.tre"))
 btr.haps.beast <- treeio::read.beast(file="../data/pacus.COI.tre")
 
 # load table and filter
-tissues.df <- read_csv("../data/tissues-master.csv")
-tissues.df %<>% filter(catalogNumber %in% labels(dat.all.ali))
+tissues.df <- read_csv("../data/tissues-master.csv") %>% mutate(identifier=if_else(!is.na(associatedSequences),associatedSequences,otherCatalogNumbers))
+
+#tissues.df %<>% filter(catalogNumber %in% labels(dat.all.ali))
 
 # get the lists of collapsed haps and all haps
 dat.haps <- clean_dna(dna=dat.haps.ali)
@@ -43,15 +44,15 @@ names(seqs.in) <- names(dat.daughters.char)
 pair.list <- unnest(enframe(seqs.in,name="daughter",value="mother"))
 
 # annotate and collapse
-haplotype.list <- pair.list %>% mutate(motherDrainage=pull(tissues.df,waterBody)[match(mother,pull(tissues.df,catalogNumber))]) %>% 
-    mutate(daughterDrainage=pull(tissues.df,waterBody)[match(daughter,pull(tissues.df,catalogNumber))]) %>% 
+haplotype.list <- pair.list %>% mutate(motherDrainage=pull(tissues.df,waterBody)[match(mother,pull(tissues.df,identifier))]) %>% 
+    mutate(daughterDrainage=pull(tissues.df,waterBody)[match(daughter,pull(tissues.df,identifier))]) %>% 
     group_by(mother) %>% 
     summarise(nHaps=n()+1, drainagesHaplotypes=paste(unique(c(motherDrainage,daughterDrainage)),collapse=","), daughters=paste(daughter,collapse=",")) %>% 
-    rename(catalogNumber="mother")
+    rename(identifier="mother")
 
 # join with tissues
 tissues.df.haps <- dplyr::left_join(tissues.df,haplotype.list) %>%
-    mutate(statusHaplotype=if_else(catalogNumber %in% names(dat.haps.char),true="mother",false="daughter")) %>%
+    mutate(statusHaplotype=if_else(identifier %in% names(dat.haps.char),true="mother",false="daughter")) %>%
     mutate(nHaps=if_else(statusHaplotype=="mother" & is.na(nHaps),1,nHaps),drainagesHaplotypes=if_else(statusHaplotype=="mother" & is.na(drainagesHaplotypes),waterBody,drainagesHaplotypes))
 
 # note: a daughter can have multiple mothers if that sequence is shorter
@@ -63,8 +64,7 @@ tissues.df.haps <- dplyr::left_join(tissues.df,haplotype.list) %>%
 # make a label col
 tissues.df.sub <- tissues.df.haps %>% mutate(lab=if_else(taxonRank=="species",paste0(genus," ",specificEpithet," (",nHaps,") ",drainagesHaplotypes),paste0(genus," ",identificationQualifier," (",nHaps,") ",drainagesHaplotypes)))
 tissues.df.sub %<>% filter(statusHaplotype=="mother")
-
-ftab <- tissues.df.sub %>% dplyr::select(catalogNumber,lab)
+ftab <- tissues.df.sub %>% dplyr::select(identifier,lab)
 
 
 
@@ -75,6 +75,7 @@ summary(gmyc.res)
 gmyc.spec <- spec.list(gmyc.res)
 # make df
 gmyc.df <- tibble(gr=paste0("gmyc", gmyc.spec$GMYC_spec),labels=as.character(gmyc.spec$sample_name))
+
 
 ## bGMYC results (consensus)
 # run bGMYC 
@@ -98,7 +99,7 @@ mat <- dist.dna(dat.all.ali, model="raw", pairwise.deletion=TRUE)
 lmin <- localMinima2(mat)
 lmin$localMinima[1]
 clu <- tclust(mat, threshold=lmin$localMinima[1])
-nams <- tissues.df$catalogNumber[match(labels(mat), tissues.df$catalogNumber)]
+nams <- tissues.df$identifier[match(labels(mat), tissues.df$identifier)]
 ggg <- lapply(clu, function(x) nams[x])
 names(ggg) <- paste0(rep("locmin", length(ggg)), seq(1:length(ggg)))
 locmin.df <- tibble(gr=rep(names(ggg), sapply(ggg, length)), labels=unlist(ggg))
@@ -112,7 +113,7 @@ ml.haps.tr <- optim.pml(pml(tree=btr.haps, data=as.phyDat(dat.haps.ali), model="
 tr <- midpoint(ml.haps.tr$tree)
 is.binary(tr)
 sort(tr$edge.length, decreasing=TRUE)
-#write.tree(tr, file="../temp-local-only/ml.haps.tr.nwk")
+write.tree(tr, file="../temp-local-only/ml.haps.tr.nwk")
 # do mPTP in terminal
 # `mptp --tree_file ml.haps.tr.nwk --output_file ml.haps.tr.nwk.out --ml --single --minbr 0.0001`
 # edit by hand to make the csv file
@@ -165,9 +166,11 @@ ccc.df <- data.frame(mptp=sapply(strsplit(bbb.df[,5], split="-"), function(x) x[
 rownames(ccc.df) <- bbb.df$labels
 head(ccc.df)
 
+
+### plot
 # make better colours
 getPalette <- colorRampPalette(brewer.pal(9, "Set1"))
-set.seed(5)# 5 is good
+set.seed(9)# 5 is good
 cols <- sample(getPalette(n=length(as.character(unique(unlist(ccc.df))))))
 
 # plot the tree
@@ -175,5 +178,5 @@ p <- ggtree(btr.haps.beast, ladderize=TRUE, color="grey50", size=0.8) + xlim(0,6
 p <- p %<+% ftab
 p <- p + geom_tiplab(aes(label=lab), size=3) + geom_point2(aes(subset=!is.na(posterior) & posterior >= 0.95), color="orange", size=1.25)# color=gr
 p <- gheatmap(p=p, data=ccc.df, width=0.5, offset=22) + scale_fill_manual(values=cols) + theme(legend.position="none")
-ggsave(plot=p, filename="../temp/delim_all.pdf", width=14, height=30, bg="transparent", limitsize=FALSE)
+ggsave(plot=p, filename="../temp/delim_all2.pdf", width=14, height=30, bg="transparent", limitsize=FALSE)
 rm(p)
