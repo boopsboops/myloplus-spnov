@@ -35,6 +35,21 @@ pacus.tr <- ladderize(midpoint(pacus.tr))
 tissues.df %<>% mutate(identifier=if_else(!is.na(associatedSequences),associatedSequences,otherCatalogNumbers)) %>%
     mutate(label=if_else(taxonRank!="species" | !is.na(identificationQualifier), paste0(identifier," ",genus," ",identificationQualifier," (",waterBody,")"), paste0(identifier," ",genus," ",specificEpithet," (",waterBody,")"))) 
 
+# how many spp?
+tissues.df %>% 
+    mutate(label=if_else(taxonRank!="species", paste0(genus," ",identificationQualifier), paste0(genus," ",specificEpithet))) %>% 
+    select(label) %>% 
+    distinct() %>%
+    print(n=Inf)
+
+# how many nigrolineatus
+tissues.df %>% filter(grepl("nigrolineatus",label))
+# how many nigro haps (run haps first)
+tissues.df %>% filter(identifier %in% labels(pacus.coi.haps.mat.trimmed)) %>% filter(grepl("nigrolineatus",label))
+# how many localities
+tissues.df %>% filter(grepl("nigrolineatus",label)) %>% mutate(loc=paste(decimalLatitude,decimalLongitude)) %>% select(loc) %>% distinct()
+
+
 # match
 pacus.tr$tip.label <- tissues.df$label[match(pacus.tr$tip.label,tissues.df$identifier)]
 

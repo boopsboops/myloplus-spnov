@@ -166,6 +166,12 @@ ccc.df <- data.frame(mptp=sapply(strsplit(bbb.df[,5], split="-"), function(x) x[
 rownames(ccc.df) <- bbb.df$labels
 head(ccc.df)
 
+## stats
+length(unique(ccc.df$mptp))
+length(unique(ccc.df$locmin))
+length(unique(ccc.df$bgmyc))
+length(unique(ccc.df$gmyc))
+
 
 ### plot
 # make better colours
