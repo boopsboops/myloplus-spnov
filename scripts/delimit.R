@@ -186,3 +186,32 @@ p <- p + geom_tiplab(aes(label=lab), size=3) + geom_point2(aes(subset=!is.na(pos
 p <- gheatmap(p=p, data=ccc.df, width=0.5, offset=20) + scale_fill_manual(values=cols) + theme(legend.position="none")
 ggsave(plot=p, filename="../temp/delim_all2.pdf", width=14, height=30, bg="transparent", limitsize=FALSE)
 rm(p)
+
+
+## genetic distances
+
+# rerun tissues.df fist
+# subset
+tissues.df %<>% #dplyr::filter(identifier %in% rownames(dat.haps.ali)) %>% 
+    mutate(label=if_else(taxonRank!="species" | !is.na(identificationQualifier), paste0(genus," ",identificationQualifier), paste0(genus," ",specificEpithet))) 
+
+# assign spp vector
+sppv <- pull(tissues.df,label)[match(rownames(dat.all.ali),pull(tissues.df,identifier))]
+
+# make distance matrices
+dist.mat <- dist.dna(dat.all.ali,model="raw",pairwise.deletion=TRUE)
+dist.mat <- dist.dna(dat.all.ali,model="TN93",gamma=0.1155917,pairwise.deletion=TRUE)#gamma from ML analysis - ml.haps.tr$call
+
+# run with raw dist
+dists.df <- tibble(code=rownames(dat.all.ali),species=sppv,nonccondist=nonConDist(dist.mat,sppv), maxintdist=maxInDist(dist.mat, sppv))
+# summarise
+dists.df %>% 
+    group_by(species) %>%
+    summarise(ncdist=round(min(nonccondist)*100,1),meanncdist=round(mean(nonccondist)*100,1),maxncdist=round(max(nonccondist)*100,1),midist=round(max(maxintdist)*100,1)) %>%
+    print(n=Inf)
+
+# all
+dists.df %>% 
+    arrange(species,desc(nonccondist)) %>% 
+    print(n=Inf)
+
