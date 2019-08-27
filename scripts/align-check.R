@@ -20,7 +20,7 @@ pacus.coi <- c(pacus.gb,pacus.new)
 
 # align
 pacus.coi.mat <- as.matrix(mafft(pacus.coi,exec="mafft"))
-write.FASTA(pacus.coi.mat,"../temp/pacus.coi.fasta")
+#write.FASTA(pacus.coi.mat,"../temp/pacus.coi.fasta")
 
 # trim after checking in geneious
 pacus.coi.mat.trimmed <- pacus.coi.mat[,70:690]
@@ -38,17 +38,22 @@ tissues.df %<>% mutate(identifier=if_else(!is.na(associatedSequences),associated
 # how many spp?
 tissues.df %>% 
     mutate(label=if_else(taxonRank!="species", paste0(genus," ",identificationQualifier), paste0(genus," ",specificEpithet))) %>% 
-    select(label) %>% 
+    dplyr::select(label) %>% 
     distinct() %>%
     print(n=Inf)
 
 # how many nigrolineatus
 tissues.df %>% filter(grepl("nigrolineatus",label))
 # how many nigro haps (run haps first)
-tissues.df %>% filter(identifier %in% labels(pacus.coi.haps.mat.trimmed)) %>% filter(grepl("nigrolineatus",label))
+#tissues.df %>% filter(identifier %in% labels(pacus.coi.haps.mat.trimmed)) %>% filter(grepl("nigrolineatus",label))
 # how many localities
-tissues.df %>% filter(grepl("nigrolineatus",label)) %>% mutate(loc=paste(decimalLatitude,decimalLongitude)) %>% select(loc) %>% distinct()
+tissues.df %>% filter(grepl("nigrolineatus",label)) %>% mutate(loc=paste(decimalLatitude,decimalLongitude)) %>% dplyr::select(loc) %>% distinct()
 
+
+# colour by specimen
+cols <- rep("#BBBBBB",length(pacus.tr$tip.label))
+source <- tissues.df$basisOfRecord[match(pacus.tr$tip.label,tissues.df$identifier)]
+cols[which(source=="PreservedSpecimen")] <- "#4477AA"
 
 # match
 pacus.tr$tip.label <- tissues.df$label[match(pacus.tr$tip.label,tissues.df$identifier)]
@@ -58,7 +63,7 @@ pacus.tr$edge.length[which(pacus.tr$edge.length<0)] <- 0
 
 # write out the tree
 pdf(file="../temp/nj.tree.406.pdf",width=30,height=80)
-plot.phylo(pacus.tr,no.margin=TRUE,font=1,label.offset=0.0001)
+plot.phylo(pacus.tr,no.margin=TRUE,font=1,label.offset=0.0003,tip.color=cols,edge.color="#CCBB44",edge.width=3)
 dev.off()
 
 # write out a nex
