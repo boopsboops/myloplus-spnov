@@ -17,6 +17,8 @@ pacus.gb <- read.GenBank(access.nb=pull(tissues.df,associatedSequences)[!is.na(p
 # join with new seqs
 pacus.new <- read.FASTA("../data/pacus-COI-new.fasta")
 pacus.coi <- c(pacus.gb,pacus.new)
+seqStat(DNAbin=pacus.coi, thresh=500)
+
 
 # align
 pacus.coi.mat <- as.matrix(mafft(pacus.coi,exec="mafft"))
@@ -24,6 +26,7 @@ pacus.coi.mat <- as.matrix(mafft(pacus.coi,exec="mafft"))
 
 # trim after checking in geneious
 pacus.coi.mat.trimmed <- pacus.coi.mat[,70:690]
+summary(dim(pacus.coi.mat.trimmed)[2] - checkDNA(DNAbin=pacus.coi.mat.trimmed, gapsAsMissing=TRUE))
 
 # make a tree
 pacus.tr <- nj(dist.dna(pacus.coi.mat.trimmed,model="raw",pairwise.deletion=TRUE))
