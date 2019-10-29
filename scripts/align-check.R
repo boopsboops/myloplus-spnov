@@ -1,6 +1,7 @@
 #!/usr/bin/env Rscript
 # rm(list = ls())
 library("ape")
+library("spider")
 library("tidyverse")
 library("magrittr")
 library("ips")
@@ -57,6 +58,8 @@ tissues.df %>% filter(grepl("nigrolineatus",label)) %>% mutate(loc=paste(decimal
 cols <- rep("#BBBBBB",length(pacus.tr$tip.label))
 source <- tissues.df$basisOfRecord[match(pacus.tr$tip.label,tissues.df$identifier)]
 cols[which(source=="PreservedSpecimen")] <- "#4477AA"
+gb <- tissues.df$associatedSequences[match(pacus.tr$tip.label,tissues.df$identifier)]
+cols[which(is.na(gb))] <- "#ff5f19"
 
 # match
 pacus.tr$tip.label <- tissues.df$label[match(pacus.tr$tip.label,tissues.df$identifier)]
@@ -65,7 +68,7 @@ pacus.tr$tip.label <- tissues.df$label[match(pacus.tr$tip.label,tissues.df$ident
 pacus.tr$edge.length[which(pacus.tr$edge.length<0)] <- 0
 
 # write out the tree
-pdf(file="../temp/nj.tree.406.pdf",width=30,height=80)
+pdf(file="../temp/nj.tree.406.cols.pdf",width=30,height=80)
 plot.phylo(pacus.tr,no.margin=TRUE,font=1,label.offset=0.0003,tip.color=cols,edge.color="#CCBB44",edge.width=3)
 dev.off()
 
