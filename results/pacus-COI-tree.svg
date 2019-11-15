@@ -43,16 +43,23 @@
      fit-margin-bottom="2"
      fit-margin-left="2"
      inkscape:zoom="0.98890193"
-     inkscape:cx="893.30914"
-     inkscape:cy="2464.5466"
-     inkscape:window-x="0"
+     inkscape:cx="507.63883"
+     inkscape:cy="341.80003"
+     inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="delim_all2"
-     transform="matrix(1.25,0,0,-1.25,-62.211002,2586.7747)"><g
+     transform="matrix(1.25,0,0,-1.25,-62.211002,2586.7747)"><rect
+       style="fill:#47a266;fill-opacity:0.19718311;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7762"
+       width="339.21609"
+       height="241.3268"
+       x="366.31622"
+       y="-1017.7913"
+       transform="scale(1,-1)" /><g
        id="g12" /><g
        id="g14" /><g
        id="g16" /><g
@@ -2633,7 +2640,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 490.02499 493.022 495.52399 502.022 507.026 512.03003 515.02698 519.67102 522.17297 528.67102 533.67499 538.67902 546.086 551.09003 556.09399 561.09802 566.10199 568.604 576.10101 581.10498 586.10901 591.11298 593.11102 596.01801 601.02197 603.52399 607.94299 612.94702 617.95099 622.95502 624.953 629.95697 634.32202 636.82397 642.82703 645.73401 650.73798 655.742 660.242 664.88599 667.388 671.70801 676.71198 679.21399 684.21802"
          y="-996.59003"
          sodipodi:role="line"
-         id="tspan1320">Myloplus nigrolineatus (23) Negro,Nhamundá,Madeira,Tapajós,Branco,Jutaí</tspan></text>
+         id="tspan1320"><tspan
+   style="font-style:italic"
+   id="tspan6144">Myloplus nigrolineatus</tspan> (23) Negro,Nhamundá,Madeira,Tapajós,Branco,Jutaí</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2643,7 +2652,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 497.01801 502.022 507.026 510.02301"
          y="-839.53003"
          sodipodi:role="line"
-         id="tspan1324">Myloplus nigrolineatus (1) Negro</tspan></text>
+         id="tspan1324"><tspan
+   style="font-style:italic"
+   id="tspan6170">Myloplus nigrolineatus</tspan> (1) Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2653,7 +2664,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 443.24301 447.74301 450.245 455.24899 458.38101 460.379 465.383 469.883 472.38501 475.38199 480.38602 483.383 485.88501 490.20499 495.20901 498.341 503.345"
          y="-706.63"
          sodipodi:role="line"
-         id="tspan1328">Myloplus aff. asterias (1) Juruá</tspan></text>
+         id="tspan1328"><tspan
+   style="font-style:italic"
+   id="tspan6202">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6200">asterias</tspan> (1) Juruá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2663,7 +2678,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 443.24301 447.74301 450.245 455.24899 458.38101 460.379 465.383 469.883 472.38501 475.38199 480.38602 483.383 485.88501 490.20499 495.20901 498.341 503.345"
          y="-694.54999"
          sodipodi:role="line"
-         id="tspan1332">Myloplus aff. asterias (2) Juruá</tspan></text>
+         id="tspan1332"><tspan
+   style="font-style:italic"
+   id="tspan6204">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6206">asterias</tspan> (2) Juruá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2673,7 +2692,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.84 499.84399 502.97601 507.98001"
          y="-887.84998"
          sodipodi:role="line"
-         id="tspan1336">Myloplus nigrolineatus (3) Juruá</tspan></text>
+         id="tspan1336"><tspan
+   style="font-style:italic"
+   id="tspan6162">Myloplus nigrolineatus</tspan> (3) Juruá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2683,7 +2704,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.84 499.84399 502.97601 507.98001"
          y="-827.45001"
          sodipodi:role="line"
-         id="tspan1340">Myloplus nigrolineatus (1) Juruá</tspan></text>
+         id="tspan1340"><tspan
+   style="font-style:italic"
+   id="tspan6172">Myloplus nigrolineatus</tspan> (1) Juruá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2693,7 +2716,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 497.01801 499.92499 504.92902 508.061 510.05899 514.55902 519.56299 524.56702 527.474 532.47803 534.97998 540.98297 543.89001 548.89398 553.89801 558.39801 563.04199 565.54401 572.04199 577.04602 582.04999 585.047 589.69098 592.19299 599.69 604.69397 609.698 614.70203 616.70001 619.60699 624.61102 627.11298 631.43298 636.43701 638.93903 643.94299"
          y="-815.35999"
          sodipodi:role="line"
-         id="tspan1344">Myloplus nigrolineatus (7) Uraricoera,Branco,Negro,Madeira,Jutaí</tspan></text>
+         id="tspan1344"><tspan
+   style="font-style:italic"
+   id="tspan6174">Myloplus nigrolineatus</tspan> (7) Uraricoera,Branco,Negro,Madeira,Jutaí</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2703,7 +2728,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.517 505.42401 510.42801 513.56 515.55798 520.05798 525.06201 530.06598 532.97302 537.97699 540.479 546.97699 551.98102 556.98499 559.98199 564.62598 567.12799 573.62598 578.63 583.63397 591.04102 596.04498 601.04901 606.05298 611.05701 613.55902 619.56201 622.46899 627.47302 632.47699 636.97699"
          y="-525.40002"
          sodipodi:role="line"
-         id="tspan1348">Myloplus aff. rubripinnis (8) Uraricoera,Negro,Nhamundá,Branco</tspan></text>
+         id="tspan1348"><tspan
+   style="font-style:italic"
+   id="tspan6246">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6248">rubripinnis</tspan> (8) Uraricoera,Negro,Nhamundá,Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2713,7 +2742,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.517 505.42401 510.42801 513.56 515.55798 520.05798 525.06201 530.06598 532.97302 537.97699 540.479 546.48199 549.38898 554.39301 559.39697 563.89697 568.54102 571.04297 575.36298 580.367 582.86902 587.87299 592.87701"
          y="-477.07999"
          sodipodi:role="line"
-         id="tspan1352">Myloplus aff. rubripinnis (3) Uraricoera,Branco,Jatapu</tspan></text>
+         id="tspan1352"><tspan
+   style="font-style:italic"
+   id="tspan6260">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6262">rubripinnis</tspan> (3) Uraricoera,Branco,Jatapu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2723,7 +2756,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.84 499.84399 502.34601 507.35001"
          y="-863.69"
          sodipodi:role="line"
-         id="tspan1356">Myloplus nigrolineatus (1) Jutaí</tspan></text>
+         id="tspan1356"><tspan
+   style="font-style:italic"
+   id="tspan6166">Myloplus nigrolineatus</tspan> (1) Jutaí</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2733,7 +2768,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.84 499.664 503.939 508.94299 512.07501"
          y="-779.12"
          sodipodi:role="line"
-         id="tspan1360">Myloplus nigrolineatus (1) Javari</tspan></text>
+         id="tspan1360"><tspan
+   style="font-style:italic"
+   id="tspan6180">Myloplus nigrolineatus</tspan> (1) Javari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2743,7 +2780,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.84 499.664 503.939 508.94299 512.07501 514.073 516.57501 524.07202 529.07599 534.08002 539.08398 541.08197 543.98901 548.99298 551.495 555.815 560.81897 563.32098 568.32501"
          y="-803.28003"
          sodipodi:role="line"
-         id="tspan1364">Myloplus nigrolineatus (7) Javari,Madeira,Jutaí</tspan></text>
+         id="tspan1364"><tspan
+   style="font-style:italic"
+   id="tspan6176">Myloplus nigrolineatus</tspan> (7) Javari,Madeira,Jutaí</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2753,7 +2792,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.84 499.664 503.939 508.94299 512.07501"
          y="-791.20001"
          sodipodi:role="line"
-         id="tspan1368">Myloplus nigrolineatus (1) Javari</tspan></text>
+         id="tspan1368"><tspan
+   style="font-style:italic"
+   id="tspan6178">Myloplus nigrolineatus</tspan> (1) Javari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2763,7 +2804,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 423.992 425.98999 430.48999 435.49399 440.49799 444.99799 447.5 450.49701 455.50101 458.49802 461 467.00299 472.00699 477.01102 479.513 485.01199 487.91901 492.923 497.927 502.427 504.42499 508.92499 513.42499"
          y="-307.94"
          sodipodi:role="line"
-         id="tspan1372">Myleus micans (1) São Francisco</tspan></text>
+         id="tspan1372"><tspan
+   style="font-style:italic"
+   id="tspan6294">Myleus micans</tspan> (1) São Francisco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2773,7 +2816,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 423.992 425.98999 430.48999 435.49399 440.49799 444.99799 447.5 450.49701 455.50101 458.49802 461 467.00299 472.00699 477.01102 479.513 485.01199 487.91901 492.923 497.927 502.427 504.42499 508.92499 513.42499"
          y="-356.26001"
          sodipodi:role="line"
-         id="tspan1376">Myleus micans (1) São Francisco</tspan></text>
+         id="tspan1376"><tspan
+   style="font-style:italic"
+   id="tspan6286">Myleus micans</tspan> (1) São Francisco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2783,7 +2828,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.827 503.83099 508.83499 513.56897"
          y="-1020.75"
          sodipodi:role="line"
-         id="tspan1380">Myloplus schomburgkii (1) Nanay</tspan></text>
+         id="tspan1380"><tspan
+   style="font-style:italic"
+   id="tspan6140">Myloplus schomburgkii</tspan> (1) Nanay</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2793,7 +2840,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.422 428.42001 433.42401 438.42801 441.42499 446.42899 450.92902 455.93301 458.84 463.84399 465.84201 470.84601 475.85001 480.35001 482.34799 486.84799 489.35001 492.34702 497.35101 500.34799 502.85001 507.26901 512.27301 516.77301 521.77698 526.78101 529.28302 531.28101 536.28497 540.65002 543.15198 549.15497 552.06201 557.06598 562.07001 567.07397 572.078 574.07599 579.08002 581.58197 586.00098 591.005 596.00897 601.013 603.01099 608.01501"
          y="-1781.89"
          sodipodi:role="line"
-         id="tspan1384">Tometes siderocarajensis (6) Tocantins,Araguaia,Tapajós</tspan></text>
+         id="tspan1384"><tspan
+   style="font-style:italic"
+   id="tspan5996">Tometes siderocarajensis</tspan> (6) Tocantins,Araguaia,Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2803,7 +2852,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.422 428.42001 433.42401 438.42801 441.42499 446.42899 450.92902 455.93301 458.84 463.84399 465.84201 470.84601 475.85001 480.35001 482.34799 486.84799 489.35001 492.34702 497.35101 500.34799 502.85001 507.26901 512.27301 516.77301 521.77698 526.78101 529.28302 531.28101 536.28497 540.65002 543.15198 549.15497 552.06201 557.06598 562.07001 567.07397 572.078 574.07599 579.08002 581.58197 586.00098 591.005 596.00897 601.013 603.01099 608.01501"
          y="-1793.98"
          sodipodi:role="line"
-         id="tspan1388">Tometes siderocarajensis (6) Tocantins,Araguaia,Tapajós</tspan></text>
+         id="tspan1388"><tspan
+   style="font-style:italic"
+   id="tspan5994">Tometes siderocarajensis</tspan> (6) Tocantins,Araguaia,Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2813,7 +2864,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.92599 431.92999 436.42999 440.92999 442.92801 447.93201 450.92902 455.66299 460.16299 465.16699 469.66699 474.67099 479.67499 484.17499 486.677 489.67401 494.67801 497.67499 500.177 506.17999 509.08701 514.091 519.09497 524.099 529.10303 531.10101"
          y="-1938.95"
          sodipodi:role="line"
-         id="tspan1392">Tometes ancylorhynchus (2) Araguaia</tspan></text>
+         id="tspan1392"><tspan
+   style="font-style:italic"
+   id="tspan5968">Tometes ancylorhynchus</tspan> (2) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2823,7 +2876,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.92599 431.92999 436.42999 440.92999 442.92801 447.93201 450.92902 455.66299 460.16299 465.16699 469.66699 474.67099 479.67499 484.17499 486.677 489.67401 494.67801 497.67499 500.177 506.17999 509.08701 514.091 519.09497 524.099 529.10303 531.10101"
          y="-1926.87"
          sodipodi:role="line"
-         id="tspan1396">Tometes ancylorhynchus (2) Araguaia</tspan></text>
+         id="tspan1396"><tspan
+   style="font-style:italic"
+   id="tspan5970">Tometes ancylorhynchus</tspan> (2) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2833,7 +2888,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.422 429.32901 434.33301 439.33701 444.341 449.345 454.349 459.353 464.35699 469.36099 471.86301 474.86002 479.86401 482.86099 485.36301 491.366 493.36401 498.36801 503.37201"
          y="-1854.38"
          sodipodi:role="line"
-         id="tspan1400">Tometes kranponhah (6) Xingu</tspan></text>
+         id="tspan1400"><tspan
+   style="font-style:italic"
+   id="tspan5982">Tometes kranponhah</tspan> (6) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2843,7 +2900,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.422 429.32901 434.33301 439.33701 444.341 449.345 454.349 459.353 464.35699 469.36099 471.86301 474.86002 479.86401 482.86099 485.36301 491.366 493.36401 498.36801 503.37201"
          y="-1866.47"
          sodipodi:role="line"
-         id="tspan1404">Tometes kranponhah (1) Xingu</tspan></text>
+         id="tspan1404"><tspan
+   style="font-style:italic"
+   id="tspan5980">Tometes kranponhah</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2853,7 +2912,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.422 429.32901 434.33301 439.33701 444.341 449.345 454.349 459.353 464.35699 469.36099 471.86301 474.86002 479.86401 482.86099 485.36301 491.366 493.36401 498.36801 503.37201"
          y="-1878.55"
          sodipodi:role="line"
-         id="tspan1408">Tometes kranponhah (6) Xingu</tspan></text>
+         id="tspan1408"><tspan
+   style="font-style:italic"
+   id="tspan5978">Tometes kranponhah</tspan> (6) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2863,7 +2924,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 435.50299 440.50699 443.009 448.013 452.513 455.01501 458.01199 463.01599 466.013 468.51501 472.93399 475.931 480.935 488.43201 493.436 498.44 500.94202 505.94601"
          y="-2011.4399"
          sodipodi:role="line"
-         id="tspan1412">Myloplus lobatus (3) Trombetas</tspan></text>
+         id="tspan1412"><tspan
+   style="font-style:italic"
+   id="tspan5956">Myloplus lobatus</tspan> (3) Trombetas</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2873,7 +2936,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 423.92001 428.92401 433.92801 438.93201 440.92999 442.92801 444.92599 447.42801 450.42499 455.42902 458.42599 460.92801 468.42499 473.42902 476.42599 481.42999 486.43399"
          y="-1310.71"
          sodipodi:role="line"
-         id="tspan1416">Tometes lebaili (2) Maroni</tspan></text>
+         id="tspan1416"><tspan
+   style="font-style:italic"
+   id="tspan6092">Tometes lebaili</tspan> (2) Maroni</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2883,7 +2948,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 423.92001 428.92401 433.92801 438.93201 440.92999 442.92801 444.92599 447.42801 450.42499 455.42902 458.42599 460.92801 468.42499 473.42902 476.42599 481.42999 486.43399"
          y="-1298.63"
          sodipodi:role="line"
-         id="tspan1420">Tometes lebaili (1) Maroni</tspan></text>
+         id="tspan1420"><tspan
+   style="font-style:italic"
+   id="tspan6094">Tometes lebaili</tspan> (1) Maroni</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2893,7 +2960,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 429.41901 434.423 438.923 443.927 448.931 451.43301 454.42999 459.43399 462.431 464.93301 471.431 476.435 481.439 484.436"
          y="-1044.91"
          sodipodi:role="line"
-         id="tspan1424">Tometes makue (1) Negro</tspan></text>
+         id="tspan1424"><tspan
+   style="font-style:italic"
+   id="tspan6136">Tometes makue</tspan> (1) Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2903,7 +2972,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 424.42401 427.556 429.55399 431.552 436.556 441.56 446.564 449.06601 454.07001 458.57001 461.07199 464.069 469.073 472.07001 474.57199 478.892 483.896 487.02802"
          y="-1685.24"
          sodipodi:role="line"
-         id="tspan1428">Tometes trilobatus (1) Jari</tspan></text>
+         id="tspan1428"><tspan
+   style="font-style:italic"
+   id="tspan6012">Tometes trilobatus</tspan> (1) Jari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2913,7 +2984,9 @@
          x="385.48999 391.49301 395.99301 400.99701 406.00101 411.005 416.009 421.013 423.51501 428.51901 433.52301 436.745 444.242 449.246 454.25 456.24802 458.75 461.74701 466.75101 469.74802 472.25 478.25299 480.25101 485.255 490.259"
          y="-138.78999"
          sodipodi:role="line"
-         id="tspan1432">Acnodon normani (1) Xingu</tspan></text>
+         id="tspan1432"><tspan
+   style="font-style:italic"
+   id="tspan6322">Acnodon normani</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2923,7 +2996,9 @@
          x="385.48999 391.49301 395.99301 400.99701 406.00101 411.005 416.009 421.013 423.51501 428.51901 433.52301 436.745 444.242 449.246 454.25 456.24802 458.75 461.74701 466.75101 469.74802 472.25 478.25299 480.25101 485.255 490.259"
          y="-126.71"
          sodipodi:role="line"
-         id="tspan1436">Acnodon normani (1) Xingu</tspan></text>
+         id="tspan1436"><tspan
+   style="font-style:italic"
+   id="tspan6324">Acnodon normani</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2933,7 +3008,9 @@
          x="385.48999 391.49301 395.99301 400.99701 406.00101 411.005 416.009 421.013 423.51501 428.01501 433.01901 438.02301 443.02701 445.02499 447.52701 450.52399 455.52802 458.52499 461.02701 465.34702 470.35101 473.483"
          y="-114.63"
          sodipodi:role="line"
-         id="tspan1440">Acnodon senai (2) Jari</tspan></text>
+         id="tspan1440"><tspan
+   style="font-style:italic"
+   id="tspan6326">Acnodon senai</tspan> (2) Jari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2943,7 +3020,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 408.98901 410.987 415.901 420.905 425.405 427.90701 432.91101 435.41299 437.64499 440.147 442.64899 447.65298 452.65701 455.564 460.56799 465.06799 469.56799 474.57199 479.57599 487.073 491.897 496.901 499.89801 504.90201 509.40201 511.39999 513.39801 515.90002 518.89697 523.901 526.89801 529.40002 535.89801 540.90198 545.90601 553.31299 558.31702 563.32098 568.32501 573.32898 575.83099 581.83398 584.966 586.96399 591.96802 596.97198 601.97601 606.97998"
          y="-1842.3"
          sodipodi:role="line"
-         id="tspan1444">Mylesinus aff. paraschomburgkii (9) Nhamundá,Aripuanã</tspan></text>
+         id="tspan1444"><tspan
+   style="font-style:italic"
+   id="tspan5984">Mylesinus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan5986">paraschomburgkii</tspan> (9) Nhamundá,Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2953,7 +3034,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 408.98901 410.987 415.901 420.905 425.405 427.90701 432.91101 437.91501 440.82199 445.82599 450.32599 454.82599 459.82999 464.83401 472.33099 477.155 482.159 485.15601 490.16 494.66 496.65799 498.65601 501.15799 504.155 509.159 512.15601 514.65802 518.97803 523.98199 527.11401"
          y="-1600.67"
          sodipodi:role="line"
-         id="tspan1448">Mylesinus paraschomburgkii (2) Jari</tspan></text>
+         id="tspan1448"><tspan
+   style="font-style:italic"
+   id="tspan6026">Mylesinus paraschomburgkii</tspan> (2) Jari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2963,7 +3046,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 408.98901 410.987 415.901 420.905 425.405 427.90701 432.91101 437.91501 440.82199 445.82599 450.32599 454.82599 459.82999 464.83401 472.33099 477.155 482.159 485.15601 490.16 494.66 496.65799 498.65601 501.15799 504.155 509.159 512.15601 514.65802 519.07703 522.07397 527.078 534.57501 539.57898 544.58301 547.08502 552.08899"
          y="-1612.75"
          sodipodi:role="line"
-         id="tspan1452">Mylesinus paraschomburgkii (6) Trombetas</tspan></text>
+         id="tspan1452"><tspan
+   style="font-style:italic"
+   id="tspan6024">Mylesinus paraschomburgkii</tspan> (6) Trombetas</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2973,7 +3058,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 408.98901 410.987 415.901 420.905 425.405 427.90701 432.91101 437.91501 440.82199 445.82599 450.32599 454.82599 459.82999 464.83401 472.33099 477.155 482.159 485.15601 490.16 494.66 496.65799 498.65601 501.15799 504.155 509.159 512.15601 514.65802 521.15601 526.15997 528.66199 533.66602 541.16302"
          y="-1624.83"
          sodipodi:role="line"
-         id="tspan1456">Mylesinus paraschomburgkii (1) Uatumã</tspan></text>
+         id="tspan1456"><tspan
+   style="font-style:italic"
+   id="tspan6022">Mylesinus paraschomburgkii</tspan> (1) Uatumã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2983,7 +3070,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 408.98901 410.987 415.901 420.905 425.405 427.90701 432.91101 437.91501 440.82199 445.82599 450.32599 454.82599 459.82999 464.83401 472.33099 477.155 482.159 485.15601 490.16 494.66 496.65799 498.65601 501.15799 504.155 509.159 512.15601 514.65802 521.15601 526.15997 528.66199 533.66602 541.16302"
          y="-1636.91"
          sodipodi:role="line"
-         id="tspan1460">Mylesinus paraschomburgkii (6) Uatumã</tspan></text>
+         id="tspan1460"><tspan
+   style="font-style:italic"
+   id="tspan6020">Mylesinus paraschomburgkii</tspan> (6) Uatumã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2993,7 +3082,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 408.98901 410.987 415.901 420.905 425.405 427.90701 432.91101 437.91501 442.91901 447.41901 449.41699 453.91699 458.92099 463.92499 468.92902 476.42599 481.42999 483.93201 488.936 493.436 495.93799 498.935 503.939 506.936 509.43799 515.44098 518.34802 523.35199 528.35602 533.35999 538.36401 540.362"
          y="-1673.16"
          sodipodi:role="line"
-         id="tspan1464">Mylesinus paucisquamatus (1) Araguaia</tspan></text>
+         id="tspan1464"><tspan
+   style="font-style:italic"
+   id="tspan6014">Mylesinus paucisquamatus</tspan> (1) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3003,7 +3094,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 408.98901 410.987 415.901 420.905 425.405 427.90701 432.91101 437.91501 442.91901 447.41901 449.41699 453.91699 458.92099 463.92499 468.92902 476.42599 481.42999 483.93201 488.936 493.436 495.93799 498.935 503.939 506.936 509.43799 515.44098 518.34802 523.35199 528.35602 533.35999 538.36401 540.362"
          y="-1661.08"
          sodipodi:role="line"
-         id="tspan1468">Mylesinus paucisquamatus (2) Araguaia</tspan></text>
+         id="tspan1468"><tspan
+   style="font-style:italic"
+   id="tspan6016">Mylesinus paucisquamatus</tspan> (2) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3013,7 +3106,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 408.98901 410.987 415.901 420.905 425.405 427.90701 432.91101 437.91501 442.91901 447.41901 449.41699 453.91699 458.92099 463.92499 468.92902 476.42599 481.42999 483.93201 488.936 493.436 495.93799 498.935 503.939 506.936 509.43799 513.85699 518.86102 523.36102 528.36499 533.36902 535.87097 537.86902 542.87299"
          y="-1649"
          sodipodi:role="line"
-         id="tspan1472">Mylesinus paucisquamatus (2) Tocantins</tspan></text>
+         id="tspan1472"><tspan
+   style="font-style:italic"
+   id="tspan6018">Mylesinus paucisquamatus</tspan> (2) Tocantins</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3023,7 +3118,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 423.992 425.98999 430.48999 435.49399 440.49799 444.99799 447.5 450.49701 455.50101 458.49802 461 467.00299 472.00699 477.01102 479.513 485.01199 487.91901 492.923 497.927 502.427 504.42499 508.92499 513.42499"
          y="-344.17999"
          sodipodi:role="line"
-         id="tspan1476">Myleus micans (1) São Francisco</tspan></text>
+         id="tspan1476"><tspan
+   style="font-style:italic"
+   id="tspan6288">Myleus micans</tspan> (1) São Francisco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3033,7 +3130,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 423.992 425.98999 430.48999 435.49399 440.49799 444.99799 447.5 450.49701 455.50101 458.49802 461 467.00299 472.00699 477.01102 479.513 485.01199 487.91901 492.923 497.927 502.427 504.42499 508.92499 513.42499"
          y="-332.10001"
          sodipodi:role="line"
-         id="tspan1480">Myleus micans (1) São Francisco</tspan></text>
+         id="tspan1480"><tspan
+   style="font-style:italic"
+   id="tspan6290">Myleus micans</tspan> (1) São Francisco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3043,7 +3142,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 423.992 425.98999 430.48999 435.49399 440.49799 444.99799 447.5 450.49701 455.50101 458.49802 461 467.00299 472.00699 477.01102 479.513 485.01199 487.91901 492.923 497.927 502.427 504.42499 508.92499 513.42499"
          y="-320.01999"
          sodipodi:role="line"
-         id="tspan1484">Myleus micans (2) São Francisco</tspan></text>
+         id="tspan1484"><tspan
+   style="font-style:italic"
+   id="tspan6292">Myleus micans</tspan> (2) São Francisco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3053,7 +3154,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 423.992 425.98999 430.48999 435.49399 440.49799 444.99799 447.5 450.49701 455.50101 458.49802 461 467.00299 472.00699 477.01102 479.513 485.01199 487.91901 492.923 497.927 502.427 504.42499 508.92499 513.42499"
          y="-295.85001"
          sodipodi:role="line"
-         id="tspan1488">Myleus micans (1) São Francisco</tspan></text>
+         id="tspan1488"><tspan
+   style="font-style:italic"
+   id="tspan6296">Myleus micans</tspan> (1) São Francisco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3063,7 +3166,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 467.50699 472.51102 477.51501 482.51901 485.021 491.02399 493.931 498.935 503.939 508.94299 513.94702 515.94501 520.94897 523.45099 527.771 532.77502 535.90698"
          y="-1576.51"
          sodipodi:role="line"
-         id="tspan1492">Myleus setiger (9) Xingu,Araguaia,Jari</tspan></text>
+         id="tspan1492"><tspan
+   style="font-style:italic"
+   id="tspan6030">Myleus setiger</tspan> (9) Xingu,Araguaia,Jari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3073,7 +3178,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 468.41602 473.42001 478.42401 483.42801 488.43201 490.42999"
          y="-1552.34"
          sodipodi:role="line"
-         id="tspan1496">Myleus setiger (1) Araguaia</tspan></text>
+         id="tspan1496"><tspan
+   style="font-style:italic"
+   id="tspan6034">Myleus setiger</tspan> (1) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3083,7 +3190,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 468.41602 473.42001 478.42401 483.42801 488.43201 490.42999 495.43399 497.936 502.35501 507.35901 511.85901 516.86298 521.867 524.36902 526.367 531.37097"
          y="-1540.26"
          sodipodi:role="line"
-         id="tspan1500">Myleus setiger (2) Araguaia,Tocantins</tspan></text>
+         id="tspan1500"><tspan
+   style="font-style:italic"
+   id="tspan6036">Myleus setiger</tspan> (2) Araguaia,Tocantins</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3093,7 +3202,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 467.50699 472.51102 477.51501"
          y="-1564.42"
          sodipodi:role="line"
-         id="tspan1504">Myleus setiger (1) Xingu</tspan></text>
+         id="tspan1504"><tspan
+   style="font-style:italic"
+   id="tspan6032">Myleus setiger</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3103,7 +3214,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 467.50699 472.51102 477.51501"
          y="-1588.59"
          sodipodi:role="line"
-         id="tspan1508">Myleus setiger (1) Xingu</tspan></text>
+         id="tspan1508"><tspan
+   style="font-style:italic"
+   id="tspan6028">Myleus setiger</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3113,7 +3226,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 463.92499 468.92902 473.93301 478.93701 480.935 485.939"
          y="-1504.02"
          sodipodi:role="line"
-         id="tspan1512">Myleus setiger (2) Tapajós</tspan></text>
+         id="tspan1512"><tspan
+   style="font-style:italic"
+   id="tspan6042">Myleus setiger</tspan> (2) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3123,7 +3238,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 468.41602 473.42001 478.42401 482.92401"
          y="-1443.61"
          sodipodi:role="line"
-         id="tspan1516">Myleus setiger (3) Branco</tspan></text>
+         id="tspan1516"><tspan
+   style="font-style:italic"
+   id="tspan6052">Myleus setiger</tspan> (3) Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3133,7 +3250,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 468.41602 473.42001 478.42401 482.92401"
          y="-1455.6899"
          sodipodi:role="line"
-         id="tspan1520">Myleus setiger (5) Branco</tspan></text>
+         id="tspan1520"><tspan
+   style="font-style:italic"
+   id="tspan6050">Myleus setiger</tspan> (5) Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3143,7 +3262,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 468.64099 470.63901 475.64301 480.647 485.651 490.655"
          y="-1467.77"
          sodipodi:role="line"
-         id="tspan1524">Myleus setiger (1) Aripuanã</tspan></text>
+         id="tspan1524"><tspan
+   style="font-style:italic"
+   id="tspan6048">Myleus setiger</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3153,7 +3274,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 465.509 468.64099 470.63901 475.64301 480.647 485.651 490.655"
          y="-1479.85"
          sodipodi:role="line"
-         id="tspan1528">Myleus setiger (1) Aripuanã</tspan></text>
+         id="tspan1528"><tspan
+   style="font-style:italic"
+   id="tspan6046">Myleus setiger</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3163,7 +3286,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 463.92499 468.92902 473.93301 478.93701 480.935 485.939"
          y="-1528.1801"
          sodipodi:role="line"
-         id="tspan1532">Myleus setiger (2) Tapajós</tspan></text>
+         id="tspan1532"><tspan
+   style="font-style:italic"
+   id="tspan6038">Myleus setiger</tspan> (2) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3173,7 +3298,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 463.92499 468.92902 473.93301 478.93701 480.935 485.939"
          y="-1516.1"
          sodipodi:role="line"
-         id="tspan1536">Myleus setiger (1) Tapajós</tspan></text>
+         id="tspan1536"><tspan
+   style="font-style:italic"
+   id="tspan6040">Myleus setiger</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3183,7 +3310,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 413.99301 416.495 420.995 425.99899 428.50101 430.49899 435.50299 440.50699 443.504 446.00601 449.00299 454.00699 457.004 459.50601 466.004 471.008 473.51001 478.51401 486.01102"
          y="-1491.9301"
          sodipodi:role="line"
-         id="tspan1540">Myleus setiger (2) Uatumã</tspan></text>
+         id="tspan1540"><tspan
+   style="font-style:italic"
+   id="tspan6044">Myleus setiger</tspan> (2) Uatumã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3193,7 +3322,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 464.23099 466.733 472.73599 474.73401 479.73801 484.742 489.746 492.24802 496.66699 501.67099 506.67499 511.67902 513.677 518.68097"
          y="-223.36"
          sodipodi:role="line"
-         id="tspan1544">Myloplus arnoldi (4) Xingu,Tapajós</tspan></text>
+         id="tspan1544"><tspan
+   style="font-style:italic"
+   id="tspan6308">Myloplus arnoldi</tspan> (4) Xingu,Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3203,7 +3334,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 464.23099 466.733 472.73599 474.73401 479.73801 484.742 489.746 492.24802 496.66699 501.67099 506.67499 511.67902 513.677 518.68097"
          y="-199.2"
          sodipodi:role="line"
-         id="tspan1548">Myloplus arnoldi (3) Xingu,Tapajós</tspan></text>
+         id="tspan1548"><tspan
+   style="font-style:italic"
+   id="tspan6312">Myloplus arnoldi</tspan> (3) Xingu,Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3213,7 +3346,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 464.23099 466.733 472.73599 475.64301 480.647 485.651 490.655 495.659 497.65701"
          y="-247.53"
          sodipodi:role="line"
-         id="tspan1552">Myloplus arnoldi (3) Araguaia</tspan></text>
+         id="tspan1552"><tspan
+   style="font-style:italic"
+   id="tspan6304">Myloplus arnoldi</tspan> (3) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3223,7 +3358,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 464.23099 466.733 472.73599 474.73401 479.73801 484.742"
          y="-235.45"
          sodipodi:role="line"
-         id="tspan1556">Myloplus arnoldi (1) Xingu</tspan></text>
+         id="tspan1556"><tspan
+   style="font-style:italic"
+   id="tspan6306">Myloplus arnoldi</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3233,7 +3370,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 464.23099 466.733 472.73599 474.73401 479.73801 484.742"
          y="-211.28"
          sodipodi:role="line"
-         id="tspan1560">Myloplus arnoldi (1) Xingu</tspan></text>
+         id="tspan1560"><tspan
+   style="font-style:italic"
+   id="tspan6310">Myloplus arnoldi</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3243,7 +3382,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 464.23099 466.733 472.73599 474.73401 479.73801 484.742"
          y="-283.76999"
          sodipodi:role="line"
-         id="tspan1564">Myloplus arnoldi (2) Xingu</tspan></text>
+         id="tspan1564"><tspan
+   style="font-style:italic"
+   id="tspan6298">Myloplus arnoldi</tspan> (2) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3253,7 +3394,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 464.23099 466.733 471.15201 476.15601 481.16 486.164 488.16199 493.16602"
          y="-259.60999"
          sodipodi:role="line"
-         id="tspan1568">Myloplus arnoldi (1) Tapajós</tspan></text>
+         id="tspan1568"><tspan
+   style="font-style:italic"
+   id="tspan6302">Myloplus arnoldi</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3263,7 +3406,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 464.23099 466.733 473.23099 478.23502 483.23901 490.646 495.64999 500.65399 505.65799"
          y="-187.12"
          sodipodi:role="line"
-         id="tspan1572">Myloplus arnoldi (2) Nhamundá</tspan></text>
+         id="tspan1572"><tspan
+   style="font-style:italic"
+   id="tspan6314">Myloplus arnoldi</tspan> (2) Nhamundá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3273,7 +3418,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.72299 436.72699 441.73099 443.729 448.733 450.73099 453.233 456.23001 461.23401 466.23801 469.23502 471.737 476.15601 481.16 486.164 491.168 493.16602 498.17001 502.535 505.03699 511.04001 513.94702 518.95099 523.95502 528.95898 533.96301 535.961 540.96503 543.46698 549.46997 551.46802 556.47198 561.47601 566.47998 568.98199 573.302 578.30597 581.43799"
          y="-271.69"
          sodipodi:role="line"
-         id="tspan1576">Myloplus arnoldi (13) Tapajós,Araguaia,Xingu,Jari</tspan></text>
+         id="tspan1576"><tspan
+   style="font-style:italic"
+   id="tspan6300">Myloplus arnoldi</tspan> (13) Tapajós,Araguaia,Xingu,Jari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3283,7 +3430,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.939 499.94299 504.44299 509.44699 514.45099 516.953 518.95099 523.95502"
          y="-960.34003"
          sodipodi:role="line"
-         id="tspan1580">Myloplus nigrolineatus (4) Tocantins</tspan></text>
+         id="tspan1580"><tspan
+   style="font-style:italic"
+   id="tspan6150">Myloplus nigrolineatus</tspan> (4) Tocantins</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3293,7 +3442,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.939 499.94299 504.44299 509.44699 514.45099 516.953 518.95099 523.95502"
          y="-972.41998"
          sodipodi:role="line"
-         id="tspan1584">Myloplus nigrolineatus (2) Tocantins</tspan></text>
+         id="tspan1584"><tspan
+   style="font-style:italic"
+   id="tspan6148">Myloplus nigrolineatus</tspan> (2) Tocantins</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3303,7 +3454,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 477.146 480.05301 485.05701 490.061 494.561"
          y="-537.48999"
          sodipodi:role="line"
-         id="tspan1588">Myloplus asterias (1) Branco</tspan></text>
+         id="tspan1588"><tspan
+   style="font-style:italic"
+   id="tspan6244">Myloplus asterias</tspan> (1) Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3313,7 +3466,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 496.52301 499.42999 504.43399 509.43799 513.93799 518.58197 521.08398 527.58197 532.586 537.59003 540.58698"
          y="-851.60999"
          sodipodi:role="line"
-         id="tspan1592">Myloplus nigrolineatus (6) Branco,Negro</tspan></text>
+         id="tspan1592"><tspan
+   style="font-style:italic"
+   id="tspan6168">Myloplus nigrolineatus</tspan> (6) Branco,Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3323,7 +3478,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 497.01801 502.022 507.026 510.02301"
          y="-875.77002"
          sodipodi:role="line"
-         id="tspan1596">Myloplus nigrolineatus (1) Negro</tspan></text>
+         id="tspan1596"><tspan
+   style="font-style:italic"
+   id="tspan6164">Myloplus nigrolineatus</tspan> (1) Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3333,7 +3490,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 477.64099 482.64499 487.64899 495.056 500.06 505.064 510.06799"
          y="-452.91"
          sodipodi:role="line"
-         id="tspan1600">Myloplus asterias (1) Nhamundá</tspan></text>
+         id="tspan1600"><tspan
+   style="font-style:italic"
+   id="tspan6266">Myloplus asterias</tspan> (1) Nhamundá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3343,7 +3502,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 497.01801 502.022 507.026 514.43298 519.43701 524.44098 529.44501"
          y="-948.26001"
          sodipodi:role="line"
-         id="tspan1604">Myloplus nigrolineatus (3) Nhamundá</tspan></text>
+         id="tspan1604"><tspan
+   style="font-style:italic"
+   id="tspan6152">Myloplus nigrolineatus</tspan> (3) Nhamundá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3353,7 +3514,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 497.01801 502.022 507.026 514.43298 519.43701 524.44098 529.44501"
          y="-936.17999"
          sodipodi:role="line"
-         id="tspan1608">Myloplus nigrolineatus (2) Nhamundá</tspan></text>
+         id="tspan1608"><tspan
+   style="font-style:italic"
+   id="tspan6154">Myloplus nigrolineatus</tspan> (2) Nhamundá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3363,7 +3526,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 497.01801 502.022 507.026 514.43298 519.43701 524.44098 529.44501"
          y="-899.92999"
          sodipodi:role="line"
-         id="tspan1612">Myloplus nigrolineatus (1) Nhamundá</tspan></text>
+         id="tspan1612"><tspan
+   style="font-style:italic"
+   id="tspan6160">Myloplus nigrolineatus</tspan> (1) Nhamundá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3373,7 +3538,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 477.64099 482.64499 487.64899 490.646 495.29001 497.79199 502.112 507.116 509.61801 514.62201 519.62598"
          y="-489.16"
          sodipodi:role="line"
-         id="tspan1616">Myloplus asterias (5) Negro,Jatapu</tspan></text>
+         id="tspan1616"><tspan
+   style="font-style:italic"
+   id="tspan6258">Myloplus asterias</tspan> (5) Negro,Jatapu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3383,7 +3550,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 477.146 480.27802 482.276 487.28 492.284 497.28799 502.29199"
          y="-404.59"
          sodipodi:role="line"
-         id="tspan1620">Myloplus asterias (1) Aripuanã</tspan></text>
+         id="tspan1620"><tspan
+   style="font-style:italic"
+   id="tspan6274">Myloplus asterias</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3393,7 +3562,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 477.146 480.27802 482.276 487.28 492.284 497.28799 502.29199"
          y="-416.67001"
          sodipodi:role="line"
-         id="tspan1624">Myloplus asterias (1) Aripuanã</tspan></text>
+         id="tspan1624"><tspan
+   style="font-style:italic"
+   id="tspan6272">Myloplus asterias</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3403,7 +3574,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 477.146 480.27802 482.276 487.28 492.284 497.28799 502.29199"
          y="-428.75"
          sodipodi:role="line"
-         id="tspan1628">Myloplus asterias (1) Aripuanã</tspan></text>
+         id="tspan1628"><tspan
+   style="font-style:italic"
+   id="tspan6270">Myloplus asterias</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3413,7 +3586,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 477.146 480.27802 482.276 487.28 492.284 497.28799 502.29199"
          y="-465"
          sodipodi:role="line"
-         id="tspan1632">Myloplus asterias (1) Aripuanã</tspan></text>
+         id="tspan1632"><tspan
+   style="font-style:italic"
+   id="tspan6264">Myloplus asterias</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3423,7 +3598,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 477.146 480.27802 482.276 487.28 492.284 497.28799 502.29199"
          y="-682.46997"
          sodipodi:role="line"
-         id="tspan1636">Myloplus asterias (1) Aripuanã</tspan></text>
+         id="tspan1636"><tspan
+   style="font-style:italic"
+   id="tspan6208">Myloplus asterias</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3433,7 +3610,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 490.02499 493.022 495.52399 501.52701 504.659 506.65701 511.66101 516.66498 521.66901 526.67297 531.677 534.17902 540.677 545.68097 550.685 553.68201 558.32599 560.828 566.83099 569.73798 574.742 579.74597 584.24597"
          y="-924.09998"
          sodipodi:role="line"
-         id="tspan1640">Myloplus nigrolineatus (12) Aripuanã,Negro,Branco</tspan></text>
+         id="tspan1640"><tspan
+   style="font-style:italic"
+   id="tspan6156">Myloplus nigrolineatus</tspan> (12) Aripuanã,Negro,Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3443,7 +3622,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 498.017 503.021 508.02499 513.02899 515.02698 517.93402 522.93799 525.44 531.93799 536.94202 541.94598 544.94299"
          y="-984.51001"
          sodipodi:role="line"
-         id="tspan1644">Myloplus nigrolineatus (2) Madeira,Negro</tspan></text>
+         id="tspan1644"><tspan
+   style="font-style:italic"
+   id="tspan6146">Myloplus nigrolineatus</tspan> (2) Madeira,Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3453,7 +3634,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 498.017 503.021 508.02499 513.02899 515.02698 517.93402"
          y="-1008.67"
          sodipodi:role="line"
-         id="tspan1648">Myloplus nigrolineatus (2) Madeira</tspan></text>
+         id="tspan1648"><tspan
+   style="font-style:italic"
+   id="tspan6142">Myloplus nigrolineatus</tspan> (2) Madeira</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3463,7 +3646,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 438.5 443.504 445.50201 447.5 452.504 457.508 462.51199 465.01401 470.01801 474.51801 477.01999 480.017 485.021 488.01801 490.51999 494.939 499.94299 504.94699 509.95099 511.94901 516.953"
          y="-912.02002"
          sodipodi:role="line"
-         id="tspan1652">Myloplus nigrolineatus (2) Tapajós</tspan></text>
+         id="tspan1652"><tspan
+   style="font-style:italic"
+   id="tspan6158">Myloplus nigrolineatus</tspan> (2) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3473,7 +3658,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 475.56201 480.56601 485.57001 490.57401 492.57199 497.57599"
          y="-742.87"
          sodipodi:role="line"
-         id="tspan1656">Myloplus asterias (2) Tapajós</tspan></text>
+         id="tspan1656"><tspan
+   style="font-style:italic"
+   id="tspan6190">Myloplus asterias</tspan> (2) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3483,7 +3670,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 475.56201 478.55899 483.56299 491.06 496.064 501.06799 503.57001 508.57401"
          y="-440.82999"
          sodipodi:role="line"
-         id="tspan1660">Myloplus asterias (1) Trombetas</tspan></text>
+         id="tspan1660"><tspan
+   style="font-style:italic"
+   id="tspan6268">Myloplus asterias</tspan> (1) Trombetas</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3493,7 +3682,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 475.56201 480.56601 485.06601 490.07001 495.07401 497.57599 499.57401 504.578"
          y="-622.06"
          sodipodi:role="line"
-         id="tspan1664">Myloplus asterias (2) Tocantins</tspan></text>
+         id="tspan1664"><tspan
+   style="font-style:italic"
+   id="tspan6224">Myloplus asterias</tspan> (2) Tocantins</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3503,7 +3694,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 475.56201 480.56601 485.06601 490.07001 495.07401 497.57599 499.57401 504.578"
          y="-609.97998"
          sodipodi:role="line"
-         id="tspan1668">Myloplus asterias (2) Tocantins</tspan></text>
+         id="tspan1668"><tspan
+   style="font-style:italic"
+   id="tspan6226">Myloplus asterias</tspan> (2) Tocantins</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3513,7 +3706,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 433.00101 435.50299 440.50699 443.63901 445.63699 450.64099 455.14099 457.64301 460.64001 465.64401 468.64099 471.14301 475.56201 480.56601 485.06601 490.07001 495.07401 497.57599 499.57401 504.578"
          y="-634.14001"
          sodipodi:role="line"
-         id="tspan1672">Myloplus asterias (1) Tocantins</tspan></text>
+         id="tspan1672"><tspan
+   style="font-style:italic"
+   id="tspan6222">Myloplus asterias</tspan> (1) Tocantins</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3523,7 +3718,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.229 434.729 436.72699 441.22699 443.729 446.72601 451.73001 454.72699 457.229 462.87201 467.87601 470.78299 475.78699 480.79102 485.79501 490.79901 492.797 495.29901 500.94202 505.94601 508.853 513.85699 518.86102"
          y="-368.34"
          sodipodi:role="line"
-         id="tspan1676">Myloplus levis (3) Paraguai,Paraná</tspan></text>
+         id="tspan1676"><tspan
+   style="font-style:italic"
+   id="tspan6284">Myloplus levis</tspan> (3) Paraguai,Paraná</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3533,7 +3730,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 435.50299 440.50699 443.009 448.013 452.513 455.01501 458.01199 463.01599 466.013 468.51501 475.013 480.017 485.021 492.42801 497.43201 502.436 507.44"
          y="-1999.36"
          sodipodi:role="line"
-         id="tspan1680">Myloplus lobatus (1) Nhamundá</tspan></text>
+         id="tspan1680"><tspan
+   style="font-style:italic"
+   id="tspan5958">Myloplus lobatus</tspan> (1) Nhamundá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3543,7 +3742,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 435.50299 440.50699 443.009 448.013 452.513 455.01501 458.01199 463.01599 466.013 468.51501 474.51801 477.64999 479.64801 484.65201 489.65601 494.66 499.664"
          y="-1987.28"
          sodipodi:role="line"
-         id="tspan1684">Myloplus lobatus (1) Aripuanã</tspan></text>
+         id="tspan1684"><tspan
+   style="font-style:italic"
+   id="tspan5960">Myloplus lobatus</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3553,7 +3754,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 435.50299 440.50699 443.009 448.013 452.513 455.01501 458.01199 463.01599 466.013 468.51501 474.51801 477.64999 479.64801 484.65201 489.65601 494.66 499.664 504.668 507.17001 513.66797 518.672 523.67603 531.08301 536.08698 541.091 546.09497 551.099 553.60101 557.92102 562.92499 565.427 570.43097 575.435 580.43903 582.94098 587.35999 590.35699 595.36102 602.85797 607.862 612.86603 615.36798 620.37201"
          y="-2035.61"
          sodipodi:role="line"
-         id="tspan1688">Myloplus lobatus (9) Aripuanã,Nhamundá,Jatapu,Trombetas</tspan></text>
+         id="tspan1688"><tspan
+   style="font-style:italic"
+   id="tspan5952">Myloplus lobatus</tspan> (9) Aripuanã,Nhamundá,Jatapu,Trombetas</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3563,7 +3766,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 435.50299 440.50699 443.009 448.013 452.513 455.01501 458.01199 463.01599 468.01999 471.017 473.51901 479.522 482.65399 484.65201 489.65601 494.66 499.664 504.668 509.672 512.17401 518.672 523.67603 528.67999 536.08698 541.091 546.09497 551.099 556.10303 558.60498 563.02399 566.021 571.02502 578.52197 583.526 588.52997 591.03198 596.03601 600.401 602.90302 607.22302 612.22699 617.23102 622.23499 625.14197"
          y="-2023.53"
          sodipodi:role="line"
-         id="tspan1692">Myloplus lobatus (19) Aripuanã,Nhamundá,Trombetas,Japurá</tspan></text>
+         id="tspan1692"><tspan
+   style="font-style:italic"
+   id="tspan5954">Myloplus lobatus</tspan> (19) Aripuanã,Nhamundá,Trombetas,Japurá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3573,7 +3778,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 435.50299 440.50699 443.009 448.013 452.513 455.01501 458.01199 463.01599 466.013 468.51501 472.83499 477.83899 480.341 485.345 490.349 495.353 497.85501 502.27399 505.271 510.27499 517.77197 522.776 527.77997 530.28198 535.28601"
          y="-1963.12"
          sodipodi:role="line"
-         id="tspan1696">Myloplus lobatus (2) Jatapu,Trombetas</tspan></text>
+         id="tspan1696"><tspan
+   style="font-style:italic"
+   id="tspan5964">Myloplus lobatus</tspan> (2) Jatapu,Trombetas</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3583,7 +3790,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 435.50299 440.50699 443.009 448.013 452.513 455.01501 458.01199 463.01599 466.013 468.51501 472.83499 477.83899 480.341 485.345 490.349 495.353 497.85501 502.27399 505.271 510.27499 517.77197 522.776 527.77997 530.28198 535.28601"
          y="-2047.6899"
          sodipodi:role="line"
-         id="tspan1700">Myloplus lobatus (2) Jatapu,Trombetas</tspan></text>
+         id="tspan1700"><tspan
+   style="font-style:italic"
+   id="tspan5950">Myloplus lobatus</tspan> (2) Jatapu,Trombetas</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3593,7 +3802,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 435.50299 440.50699 443.009 448.013 452.513 455.01501 458.01199 463.01599 466.013 468.51501 472.83499 477.83899 482.84299 487.84702 490.754"
          y="-1975.2"
          sodipodi:role="line"
-         id="tspan1704">Myloplus lobatus (1) Japurá</tspan></text>
+         id="tspan1704"><tspan
+   style="font-style:italic"
+   id="tspan5962">Myloplus lobatus</tspan> (1) Japurá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3601,9 +3812,11 @@
        x="385.48999"
        y="-1951.04"><tspan
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 425.495 430.49899 434.99899 436.99701 442.00101 447.005 452.009 457.013 459.51501 462.51199 467.51599 470.513 473.01501 479.513 484.517 489.521 492.51801"
-         y="-1951.04"
          sodipodi:role="line"
-         id="tspan1708">Myloplus lucienae (6) Negro</tspan></text>
+         id="tspan1708"
+         y="-1951.04"><tspan
+   style="font-style:italic"
+   id="tspan5966">Myloplus lucienae</tspan> (6) Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3613,7 +3826,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 504.01999 509.02399 514.02802"
          y="-1407.36"
          sodipodi:role="line"
-         id="tspan1712">Myloplus aff. rubripinnis (1) Xingu</tspan></text>
+         id="tspan1712"><tspan
+   style="font-style:italic"
+   id="tspan6064">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6062">rubripinnis</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3623,7 +3840,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 504.01999 509.02399 514.02802"
          y="-646.21997"
          sodipodi:role="line"
-         id="tspan1716">Myloplus aff. rubripinnis (2) Xingu</tspan></text>
+         id="tspan1716"><tspan
+   style="font-style:italic"
+   id="tspan6218">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6220">rubripinnis</tspan> (2) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3633,7 +3854,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 504.01999 509.02399 514.02802"
          y="-658.29999"
          sodipodi:role="line"
-         id="tspan1720">Myloplus aff. rubripinnis (1) Xingu</tspan></text>
+         id="tspan1720"><tspan
+   style="font-style:italic"
+   id="tspan6216">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6214">rubripinnis</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3643,7 +3868,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 504.01999 509.02399 514.02802"
          y="-670.38"
          sodipodi:role="line"
-         id="tspan1724">Myloplus aff. rubripinnis (1) Xingu</tspan></text>
+         id="tspan1724"><tspan
+   style="font-style:italic"
+   id="tspan6210">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6212">rubripinnis</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3653,7 +3882,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 504.92902 509.93301 514.93701 519.94098 524.94501 526.94299"
          y="-1383.2"
          sodipodi:role="line"
-         id="tspan1728">Myloplus aff. rubripinnis (3) Araguaia</tspan></text>
+         id="tspan1728"><tspan
+   style="font-style:italic"
+   id="tspan6070">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6072">rubripinnis</tspan> (3) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3663,7 +3896,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 504.01999 509.02399 514.02802"
          y="-1395.28"
          sodipodi:role="line"
-         id="tspan1732">Myloplus aff. rubripinnis (2) Xingu</tspan></text>
+         id="tspan1732"><tspan
+   style="font-style:italic"
+   id="tspan6066">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6068">rubripinnis</tspan> (2) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3673,7 +3910,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 504.01999 509.02399 514.02802"
          y="-1431.53"
          sodipodi:role="line"
-         id="tspan1736">Myloplus aff. rubripinnis (1) Xingu</tspan></text>
+         id="tspan1736"><tspan
+   style="font-style:italic"
+   id="tspan6054">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6056">rubripinnis</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3683,7 +3924,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 504.01999 509.02399 514.02802"
          y="-1419.4399"
          sodipodi:role="line"
-         id="tspan1740">Myloplus aff. rubripinnis (1) Xingu</tspan></text>
+         id="tspan1740"><tspan
+   style="font-style:italic"
+   id="tspan6058">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6060">rubripinnis</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3693,7 +3938,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 500.43799 505.44202 510.44601 515.45001 517.448 522.45203"
          y="-1359.04"
          sodipodi:role="line"
-         id="tspan1744">Myloplus aff. rubripinnis (1) Tapajós</tspan></text>
+         id="tspan1744"><tspan
+   style="font-style:italic"
+   id="tspan6078">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6080">rubripinnis</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3703,7 +3952,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 500.43799 505.44202 510.44601 515.45001 517.448 522.45203"
          y="-1371.12"
          sodipodi:role="line"
-         id="tspan1748">Myloplus aff. rubripinnis (2) Tapajós</tspan></text>
+         id="tspan1748"><tspan
+   style="font-style:italic"
+   id="tspan6074">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6076">rubripinnis</tspan> (2) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3713,7 +3966,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 505.15399 507.15201 512.15601 517.15997 522.164 527.16797"
          y="-1334.87"
          sodipodi:role="line"
-         id="tspan1752">Myloplus aff. rubripinnis (9) Aripuanã</tspan></text>
+         id="tspan1752"><tspan
+   style="font-style:italic"
+   id="tspan6086">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6088">rubripinnis</tspan> (9) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3723,7 +3980,11 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 431.00299 433.23499 435.737 438.23901 441.371 446.375 451.379 454.51102 456.509 461.513 463.51102 468.51501 473.51901 475.517 480.017 482.51901 485.51599 490.51999 493.517 496.01901 502.022 505.15399 507.15201 512.15601 517.15997 522.164 527.16797"
          y="-1346.96"
          sodipodi:role="line"
-         id="tspan1756">Myloplus aff. rubripinnis (2) Aripuanã</tspan></text>
+         id="tspan1756"><tspan
+   style="font-style:italic"
+   id="tspan6082">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6084">rubripinnis</tspan> (2) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3733,7 +3994,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 428.50101 430.49899 435.50299 440.50699 445.51099 450.51501 455.51901 458.021 460.52301 465.52701 467.52499 470.02701 473.02399 478.02802 481.02499 483.52701 487.84702 492.85101 495.983"
          y="-1322.79"
          sodipodi:role="line"
-         id="tspan1760">Myloplus planquettei (1) Jari</tspan></text>
+         id="tspan1760"><tspan
+   style="font-style:italic"
+   id="tspan6090">Myloplus planquettei</tspan> (1) Jari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3743,7 +4006,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.49399 431.49799 436.50201 443.99899 449.00299 454.00699 456.005 461.009 466.013 468.01102 470.009 474.509 477.01102 480.008 485.01199 488.009 490.51102 496.51401 498.51199 503.51599 508.51999"
          y="-162.96001"
          sodipodi:role="line"
-         id="tspan1764">Myloplus rhomboidalis (9) Xingu</tspan></text>
+         id="tspan1764"><tspan
+   style="font-style:italic"
+   id="tspan6318">Myloplus rhomboidalis</tspan> (9) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3753,7 +4018,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.49399 431.49799 436.50201 443.99899 449.00299 454.00699 456.005 461.009 466.013 468.01102 470.009 474.509 477.01102 480.008 485.01199 488.009 490.51102 496.51401 499.42099 504.42499 509.42902 513.92902"
          y="-150.87"
          sodipodi:role="line"
-         id="tspan1768">Myloplus rhomboidalis (1) Branco</tspan></text>
+         id="tspan1768"><tspan
+   style="font-style:italic"
+   id="tspan6320">Myloplus rhomboidalis</tspan> (1) Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3763,117 +4030,163 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.49399 431.49799 436.50201 443.99899 449.00299 454.00699 456.005 461.009 466.013 468.01102 470.009 474.509 477.01102 480.008 485.01199 488.009 490.51102 494.83099 499.83499 502.96701"
          y="-175.03999"
          sodipodi:role="line"
-         id="tspan1772">Myloplus rhomboidalis (4) Jari</tspan></text>
+         id="tspan1772"><tspan
+   style="font-style:italic"
+   id="tspan6316">Myloplus rhomboidalis</tspan> (4) Jari</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1774"
        x="385.48999"
        y="-718.71002"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.69601 490.70001 495.70401 500.70801 502.70599 507.70999"
+         x="385.48999"
          y="-718.71002"
          sodipodi:role="line"
-         id="tspan1776">Myloplus rubripinnis (1) Tapajós</tspan></text>
+         id="tspan1776"><tspan
+   style="font-style:italic"
+   id="tspan6196">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6198">rubripinnis</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1778"
        x="385.48999"
        y="-767.03998"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.69601 490.70001 495.70401 500.70801 502.70599 507.70999"
+         x="385.48999"
          y="-767.03998"
          sodipodi:role="line"
-         id="tspan1780">Myloplus rubripinnis (8) Tapajós</tspan></text>
+         id="tspan1780"><tspan
+   style="font-style:italic"
+   id="tspan6184">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6182">rubripinnis</tspan> (8) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1782"
        x="385.48999"
        y="-754.96002"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.69601 490.70001 495.70401 500.70801 502.70599 507.70999"
+         x="385.48999"
          y="-754.96002"
          sodipodi:role="line"
-         id="tspan1784">Myloplus rubripinnis (1) Tapajós</tspan></text>
+         id="tspan1784"><tspan
+   style="font-style:italic"
+   id="tspan6186">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6188">rubripinnis</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1786"
        x="385.48999"
        y="-730.78998"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.69601 490.70001 495.70401 500.70801 502.70599 507.70999"
+         x="385.48999"
          y="-730.78998"
          sodipodi:role="line"
-         id="tspan1788">Myloplus rubripinnis (1) Tapajós</tspan></text>
+         id="tspan1788"><tspan
+   style="font-style:italic"
+   id="tspan6194">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6192">rubripinnis</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1790"
        x="385.48999"
        y="-380.42001"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.69601 490.70001 495.70401 500.70801 502.70599 507.70999"
+         x="385.48999"
          y="-380.42001"
          sodipodi:role="line"
-         id="tspan1792">Myloplus rubripinnis (1) Tapajós</tspan></text>
+         id="tspan1792"><tspan
+   style="font-style:italic"
+   id="tspan6280">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6282">rubripinnis</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1794"
        x="385.48999"
        y="-392.51001"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 480.78201 483.77899 486.28101 490.70001 495.70401 500.70801 505.71201 507.70999 512.71399"
+         x="385.48999"
          y="-392.51001"
          sodipodi:role="line"
-         id="tspan1796">Myloplus rubripinnis (10) Tapajós</tspan></text>
+         id="tspan1796"><tspan
+   style="font-style:italic"
+   id="tspan6278">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6276">rubripinnis</tspan> (10) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1798"
        x="385.48999"
        y="-513.32001"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.69601 490.70001 495.70401 500.70801 502.70599 507.70999"
+         x="385.48999"
          y="-513.32001"
          sodipodi:role="line"
-         id="tspan1800">Myloplus rubripinnis (1) Tapajós</tspan></text>
+         id="tspan1800"><tspan
+   style="font-style:italic"
+   id="tspan6252">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6250">rubripinnis</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1802"
        x="385.48999"
        y="-501.23999"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.59702 490.60101 493.103 498.10699 503.11099"
+         x="385.48999"
          y="-501.23999"
          sodipodi:role="line"
-         id="tspan1804">Myloplus rubripinnis (1) Jatapu</tspan></text>
+         id="tspan1804"><tspan
+   style="font-style:italic"
+   id="tspan6254">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6256">rubripinnis</tspan> (1) Jatapu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1806"
        x="385.48999"
        y="-573.72998"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.59702 490.60101 495.60501 500.60901 503.51599"
+         x="385.48999"
          y="-573.72998"
          sodipodi:role="line"
-         id="tspan1808">Myloplus rubripinnis (1) Japurá</tspan></text>
+         id="tspan1808"><tspan
+   style="font-style:italic"
+   id="tspan6232">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6234">rubripinnis</tspan> (1) Japurá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1810"
        x="385.48999"
        y="-561.65002"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.59702 490.60101 495.60501 500.60901 503.51599"
+         x="385.48999"
          y="-561.65002"
          sodipodi:role="line"
-         id="tspan1812">Myloplus rubripinnis (1) Japurá</tspan></text>
+         id="tspan1812"><tspan
+   style="font-style:italic"
+   id="tspan6238">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6236">rubripinnis</tspan> (1) Japurá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1814"
        x="385.48999"
        y="-549.57001"><tspan
-         x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 426.629 431.633 436.63699 439.76901 441.767 446.771 448.76901 453.77301 458.77701 460.77499 465.27499 467.77701 470.77399 475.77802 478.77499 481.27701 485.59702 490.60101 495.60501 500.60901 503.51599"
+         x="385.48999"
          y="-549.57001"
          sodipodi:role="line"
-         id="tspan1816">Myloplus rubripinnis (1) Japurá</tspan></text>
+         id="tspan1816"><tspan
+   style="font-style:italic"
+   id="tspan6240">Myloplus</tspan> aff. <tspan
+   style="font-style:italic"
+   id="tspan6242">rubripinnis</tspan> (1) Japurá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3883,7 +4196,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 496.74802 501.75201 506.75601 511.76001 513.758 518.76202"
          y="-1214.0601"
          sodipodi:role="line"
-         id="tspan1820">Myloplus schomburgkii (1) Tapajós</tspan></text>
+         id="tspan1820"><tspan
+   style="font-style:italic"
+   id="tspan6108">Myloplus schomburgkii</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3893,7 +4208,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 501.23901 506.24301 511.24701 516.25098 521.255 523.25299"
          y="-1262.38"
          sodipodi:role="line"
-         id="tspan1824">Myloplus schomburgkii (1) Araguaia</tspan></text>
+         id="tspan1824"><tspan
+   style="font-style:italic"
+   id="tspan6100">Myloplus schomburgkii</tspan> (1) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3903,7 +4220,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 501.23901 506.24301 511.24701 516.25098 521.255 523.25299 528.25702 530.75897 535.17798 540.18201 545.18597 550.19 552.18799 557.19202"
          y="-1250.3"
          sodipodi:role="line"
-         id="tspan1828">Myloplus schomburgkii (5) Araguaia,Tapajós</tspan></text>
+         id="tspan1828"><tspan
+   style="font-style:italic"
+   id="tspan6102">Myloplus schomburgkii</tspan> (5) Araguaia,Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3913,7 +4232,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 500.32999 505.33401 510.33801"
          y="-1057"
          sodipodi:role="line"
-         id="tspan1832">Myloplus schomburgkii (1) Xingu</tspan></text>
+         id="tspan1832"><tspan
+   style="font-style:italic"
+   id="tspan6134">Myloplus schomburgkii</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3923,7 +4244,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 500.32999 505.33401 510.33801"
          y="-1069.08"
          sodipodi:role="line"
-         id="tspan1836">Myloplus schomburgkii (1) Xingu</tspan></text>
+         id="tspan1836"><tspan
+   style="font-style:italic"
+   id="tspan6132">Myloplus schomburgkii</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3933,7 +4256,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 500.32999 505.33401 510.33801"
          y="-1081.16"
          sodipodi:role="line"
-         id="tspan1840">Myloplus schomburgkii (1) Xingu</tspan></text>
+         id="tspan1840"><tspan
+   style="font-style:italic"
+   id="tspan6130">Myloplus schomburgkii</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3943,7 +4268,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 500.32999 505.33401 510.33801"
          y="-1238.22"
          sodipodi:role="line"
-         id="tspan1844">Myloplus schomburgkii (1) Xingu</tspan></text>
+         id="tspan1844"><tspan
+   style="font-style:italic"
+   id="tspan6104">Myloplus schomburgkii</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3953,7 +4280,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 496.74802 501.75201 506.75601 511.76001 513.758 518.76202"
          y="-1286.55"
          sodipodi:role="line"
-         id="tspan1848">Myloplus schomburgkii (1) Tapajós</tspan></text>
+         id="tspan1848"><tspan
+   style="font-style:italic"
+   id="tspan6096">Myloplus schomburgkii</tspan> (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3963,7 +4292,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 496.74802 501.75201 506.75601 511.76001 513.758 518.76202"
          y="-1274.47"
          sodipodi:role="line"
-         id="tspan1852">Myloplus schomburgkii (2) Tapajós</tspan></text>
+         id="tspan1852"><tspan
+   style="font-style:italic"
+   id="tspan6098">Myloplus schomburgkii</tspan> (2) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3973,7 +4304,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 496.74802 501.75201 506.75601 511.76001 513.758 518.76202"
          y="-1226.14"
          sodipodi:role="line"
-         id="tspan1856">Myloplus schomburgkii (3) Tapajós</tspan></text>
+         id="tspan1856"><tspan
+   style="font-style:italic"
+   id="tspan6106">Myloplus schomburgkii</tspan> (3) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3983,7 +4316,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 501.23901 506.24301 511.24701 515.74701"
          y="-1177.8101"
          sodipodi:role="line"
-         id="tspan1860">Myloplus schomburgkii (1) Branco</tspan></text>
+         id="tspan1860"><tspan
+   style="font-style:italic"
+   id="tspan6114">Myloplus schomburgkii</tspan> (1) Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3993,7 +4328,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.827 503.83099 508.83499 516.242 521.24597 526.25 531.25403 536.258 538.76001 544.763 547.66998 552.67401 557.67798 562.17798 566.82202 569.32397 575.82202 580.82599 585.83002 588.82703"
          y="-1165.73"
          sodipodi:role="line"
-         id="tspan1864">Myloplus schomburgkii (8) Nhamundá,Branco,Negro</tspan></text>
+         id="tspan1864"><tspan
+   style="font-style:italic"
+   id="tspan6116">Myloplus schomburgkii</tspan> (8) Nhamundá,Branco,Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4003,7 +4340,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.827 503.83099 508.83499 516.242 521.24597 526.25 531.25403 536.258 538.76001 544.763 547.66998 552.67401 557.67798 562.17798 566.82202 569.32397 575.82202 580.82599 585.83002 588.82703"
          y="-1153.65"
          sodipodi:role="line"
-         id="tspan1868">Myloplus schomburgkii (3) Nhamundá,Branco,Negro</tspan></text>
+         id="tspan1868"><tspan
+   style="font-style:italic"
+   id="tspan6118">Myloplus schomburgkii</tspan> (3) Nhamundá,Branco,Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4013,7 +4352,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 501.23901 506.24301 511.24701 515.74701"
          y="-1189.89"
          sodipodi:role="line"
-         id="tspan1872">Myloplus schomburgkii (1) Branco</tspan></text>
+         id="tspan1872"><tspan
+   style="font-style:italic"
+   id="tspan6112">Myloplus schomburgkii</tspan> (1) Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4023,7 +4364,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 501.23901 506.24301 511.24701 515.74701 520.39099 522.89301 529.39099 534.39502 539.39899 542.396"
          y="-1201.98"
          sodipodi:role="line"
-         id="tspan1876">Myloplus schomburgkii (2) Branco,Negro</tspan></text>
+         id="tspan1876"><tspan
+   style="font-style:italic"
+   id="tspan6110">Myloplus schomburgkii</tspan> (2) Branco,Negro</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4033,7 +4376,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.332 501.23901 506.24301 511.24701 515.74701"
          y="-1032.83"
          sodipodi:role="line"
-         id="tspan1880">Myloplus schomburgkii (1) Branco</tspan></text>
+         id="tspan1880"><tspan
+   style="font-style:italic"
+   id="tspan6138">Myloplus schomburgkii</tspan> (1) Branco</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4043,7 +4388,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.99701 432.49701 437.50101 442.505 450.00201 454.82599 459.82999 462.827 467.83099 472.33099 474.32901 476.327 478.82901 481.82599 486.82999 489.827 492.32901 498.827 503.83099 508.83499 511.832 516.47601 518.97803 524.98102 527.888 532.89197 537.896 542.396 547.03998 549.54199 556.03998 561.04401 566.04797 573.45502 578.45898 583.46301 588.46698"
          y="-1141.5699"
          sodipodi:role="line"
-         id="tspan1884">Myloplus schomburgkii (4) Negro,Branco,Nhamundá</tspan></text>
+         id="tspan1884"><tspan
+   style="font-style:italic"
+   id="tspan6120">Myloplus schomburgkii</tspan> (4) Negro,Branco,Nhamundá</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4053,7 +4400,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.862 432.866 435.86301 438.85999 443.86401 445.862 448.36401 451.36099 456.36499 459.362 461.86401 467.867 470.99899 472.99701 478.00101 483.005 488.009 493.013"
          y="-1818.14"
          sodipodi:role="line"
-         id="tspan1888">Myloplus zorroi (1) Aripuanã</tspan></text>
+         id="tspan1888"><tspan
+   style="font-style:italic"
+   id="tspan5990">Myloplus zorroi</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4063,7 +4412,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.862 432.866 435.86301 438.85999 443.86401 445.862 448.36401 451.36099 456.36499 459.362 461.86401 467.867 470.99899 472.99701 478.00101 483.005 488.009 493.013"
          y="-1806.0601"
          sodipodi:role="line"
-         id="tspan1892">Myloplus zorroi (2) Aripuanã</tspan></text>
+         id="tspan1892"><tspan
+   style="font-style:italic"
+   id="tspan5992">Myloplus zorroi</tspan> (2) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4073,7 +4424,9 @@
          x="385.48999 392.987 397.487 399.48499 404.48901 409.49301 411.491 416.495 420.995 423.49701 427.862 432.866 435.86301 438.85999 443.86401 445.862 448.36401 451.36099 456.36499 459.362 461.86401 467.867 470.99899 472.99701 478.00101 483.005 488.009 493.013"
          y="-1830.22"
          sodipodi:role="line"
-         id="tspan1896">Myloplus zorroi (3) Aripuanã</tspan></text>
+         id="tspan1896"><tspan
+   style="font-style:italic"
+   id="tspan5988">Myloplus zorroi</tspan> (3) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4083,7 +4436,9 @@
          x="385.48999 392.492 396.992 401.492 406.496 411.5 414.00201 419.00601 423.50601 426.008 430.508 432.50601 437.51001 442.51401 447.51801 452.522 457.526 462.026 467.03 469.53201 472.52899 477.53299 480.53 483.03201 489.035 491.03299 496.03699 501.04102"
          y="-1105.3199"
          sodipodi:role="line"
-         id="tspan1900">Ossubtus xinguense (1) Xingu</tspan></text>
+         id="tspan1900"><tspan
+   style="font-style:italic"
+   id="tspan6126">Ossubtus xinguense</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4093,7 +4448,9 @@
          x="385.48999 392.492 396.992 401.492 406.496 411.5 414.00201 419.00601 423.50601 426.008 430.508 432.50601 437.51001 442.51401 447.51801 452.522 457.526 462.026 467.03 469.53201 472.52899 477.53299 480.53 483.03201 489.035 491.03299 496.03699 501.04102"
          y="-1129.49"
          sodipodi:role="line"
-         id="tspan1904">Ossubtus xinguense (3) Xingu</tspan></text>
+         id="tspan1904"><tspan
+   style="font-style:italic"
+   id="tspan6122">Ossubtus xinguense</tspan> (3) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4103,7 +4460,9 @@
          x="385.48999 392.492 396.992 401.492 406.496 411.5 414.00201 419.00601 423.50601 426.008 430.508 432.50601 437.51001 442.51401 447.51801 452.522 457.526 462.026 467.03 469.53201 472.52899 477.53299 480.53 483.03201 489.035 491.03299 496.03699 501.04102"
          y="-1117.4"
          sodipodi:role="line"
-         id="tspan1908">Ossubtus xinguense (1) Xingu</tspan></text>
+         id="tspan1908"><tspan
+   style="font-style:italic"
+   id="tspan6124">Ossubtus xinguense</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4113,7 +4472,9 @@
          x="385.48999 392.492 396.992 401.492 406.496 411.5 414.00201 419.00601 423.50601 426.008 430.508 432.50601 437.51001 442.51401 447.51801 452.522 457.526 462.026 467.03 469.53201 472.52899 477.53299 480.53 483.03201 489.035 491.03299 496.03699 501.04102"
          y="-1093.24"
          sodipodi:role="line"
-         id="tspan1912">Ossubtus xinguense (1) Xingu</tspan></text>
+         id="tspan1912"><tspan
+   style="font-style:italic"
+   id="tspan6128">Ossubtus xinguense</tspan> (1) Xingu</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4123,7 +4484,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.92599 431.92999 436.42999 440.92999 442.92801 447.93201 450.92902 455.66299 460.16299 465.16699 469.66699 474.67099 479.67499 484.17499 486.677 489.67401 494.67801 497.67499 500.177 506.17999 509.08701 514.091 519.09497 524.099 529.10303 531.10101"
          y="-1890.63"
          sodipodi:role="line"
-         id="tspan1916">Tometes ancylorhynchus (3) Araguaia</tspan></text>
+         id="tspan1916"><tspan
+   style="font-style:italic"
+   id="tspan5976">Tometes ancylorhynchus</tspan> (3) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4133,7 +4496,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.92599 431.92999 436.42999 440.92999 442.92801 447.93201 450.92902 455.66299 460.16299 465.16699 469.66699 474.67099 479.67499 484.17499 486.677 489.67401 494.67801 497.67499 500.177 506.17999 509.08701 514.091 519.09497 524.099 529.10303 531.10101"
          y="-1902.71"
          sodipodi:role="line"
-         id="tspan1920">Tometes ancylorhynchus (1) Araguaia</tspan></text>
+         id="tspan1920"><tspan
+   style="font-style:italic"
+   id="tspan5974">Tometes ancylorhynchus</tspan> (1) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4143,7 +4508,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.92599 431.92999 436.42999 440.92999 442.92801 447.93201 450.92902 455.66299 460.16299 465.16699 469.66699 474.67099 479.67499 484.17499 486.677 489.67401 494.67801 497.67499 500.177 506.17999 509.08701 514.091 519.09497 524.099 529.10303 531.10101"
          y="-1914.79"
          sodipodi:role="line"
-         id="tspan1924">Tometes ancylorhynchus (1) Araguaia</tspan></text>
+         id="tspan1924"><tspan
+   style="font-style:italic"
+   id="tspan5972">Tometes ancylorhynchus</tspan> (1) Araguaia</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4153,7 +4520,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.422 431.42599 438.83301 443.83701 448.841 453.845 458.849 460.84702 463.349 466.34601 471.35001 474.34702 476.849 481.26801 484.26501 489.26901 496.76599 501.76999 506.77399 509.276 514.27997"
          y="-1697.3199"
          sodipodi:role="line"
-         id="tspan1928">Tometes camunani (1) Trombetas</tspan></text>
+         id="tspan1928"><tspan
+   style="font-style:italic"
+   id="tspan6010">Tometes camunani</tspan> (1) Trombetas</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4163,7 +4532,9 @@
          x="385.48999"
          y="-1769.8101"
          sodipodi:role="line"
-         id="tspan1932">Tometes sp. 'Tapajós' (10) Tapajós,Trombetas</tspan></text>
+         id="tspan1932"><tspan
+   style="font-style:italic"
+   id="tspan5998">Tometes</tspan> sp. 'Tapajós' (10) Tapajós,Trombetas</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4173,7 +4544,9 @@
          x="385.48999"
          y="-1745.65"
          sodipodi:role="line"
-         id="tspan1936">Tometes sp. 'Tapajós' (1) Tapajós</tspan></text>
+         id="tspan1936"><tspan
+   style="font-style:italic"
+   id="tspan6002">Tometes</tspan> sp. 'Tapajós' (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4183,7 +4556,9 @@
          x="385.48999"
          y="-1757.73"
          sodipodi:role="line"
-         id="tspan1940">Tometes sp. 'Tapajós' (1) Tapajós</tspan></text>
+         id="tspan1940"><tspan
+   style="font-style:italic"
+   id="tspan6000">Tometes</tspan> sp. 'Tapajós' (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4193,7 +4568,9 @@
          x="385.48999"
          y="-1733.5699"
          sodipodi:role="line"
-         id="tspan1944">Tometes sp. 'Tapajós' (1) Tapajós</tspan></text>
+         id="tspan1944"><tspan
+   style="font-style:italic"
+   id="tspan6004">Tometes</tspan> sp. 'Tapajós' (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4203,7 +4580,9 @@
          x="385.48999"
          y="-1709.4"
          sodipodi:role="line"
-         id="tspan1948">Tometes sp. 'Tapajós' (1) Tapajós</tspan></text>
+         id="tspan1948"><tspan
+   style="font-style:italic"
+   id="tspan6008">Tometes</tspan> sp. 'Tapajós' (1) Tapajós</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4213,7 +4592,9 @@
          x="385.48999 389.909 394.91299 402.41 407.414 409.91602 414.92001 419.42001 421.922 426.422 428.42001 433.42401 438.42801 441.42499 446.42899 450.92902 455.93301 458.84 463.84399 465.84201 470.84601 475.85001 480.35001 482.34799 486.84799 489.35001 492.34702 497.35101 500.34799 502.85001 507.26901 512.27301 516.77301 521.77698 526.78101 529.28302 531.28101 536.28497"
          y="-1721.49"
          sodipodi:role="line"
-         id="tspan1952">Tometes siderocarajensis (1) Tocantins</tspan></text>
+         id="tspan1952"><tspan
+   style="font-style:italic"
+   id="tspan6006">Tometes siderocarajensis</tspan> (1) Tocantins</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4223,7 +4604,9 @@
          x="385.48999 391.98801 394.48999 396.48801 401.492 404.62399 406.62201 409.12399 411.12201 415.62201 420.62601 423.12799 427.862 432.362 436.862 439.36401 441.362 446.366 451.37 456.37399 458.37201 463.37601 468.38 471.37701 475.87701 480.88101 482.879 484.87701 489.37701 491.879 494.87601 499.88 502.87701 505.379 511.38199 514.51398 516.51202 521.51599 526.52002 531.52399 536.52802"
          y="-585.81"
          sodipodi:role="line"
-         id="tspan1956">Utiaritichthys longidorsalis (1) Aripuanã</tspan></text>
+         id="tspan1956"><tspan
+   style="font-style:italic"
+   id="tspan6230">Utiaritichthys longidorsalis</tspan> (1) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4233,7 +4616,9 @@
          x="385.48999 391.98801 394.48999 396.48801 401.492 404.62399 406.62201 409.12399 411.12201 415.62201 420.62601 423.12799 427.862 432.362 436.862 439.36401 441.362 446.366 451.37 456.37399 458.37201 463.37601 468.38 471.37701 475.87701 480.88101 482.879 484.87701 489.37701 491.879 494.87601 499.88 502.87701 505.379 511.38199 514.51398 516.51202 521.51599 526.52002 531.52399 536.52802"
          y="-597.89001"
          sodipodi:role="line"
-         id="tspan1960">Utiaritichthys longidorsalis (4) Aripuanã</tspan></text>
+         id="tspan1960"><tspan
+   style="font-style:italic"
+   id="tspan6228">Utiaritichthys longidorsalis</tspan> (4) Aripuanã</tspan></text>
 <text
        transform="scale(1,-1)"
        style="font-variant:normal;font-weight:normal;font-size:4.67999983px;font-family:ZapfDingbats;-inkscape-font-specification:ZapfDingbats;writing-mode:lr-tb;fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke:#ffa500;stroke-width:0.70999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -6216,14 +6601,7 @@
        id="g3626" /><g
        id="g3628" /><g
        id="g3630" /><g
-       id="g3632" /><rect
-       style="fill:#47a266;fill-opacity:0.19718311;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7762"
-       width="339.21609"
-       height="241.3268"
-       x="366.31622"
-       y="-1017.7913"
-       transform="scale(1,-1)" /><g
+       id="g3632" /><g
        id="g6115"
        transform="translate(-171.2,0)"><path
          inkscape:connector-curvature="0"
