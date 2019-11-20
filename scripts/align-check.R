@@ -95,9 +95,15 @@ trees.subsampled <- sample(trees.combined,1000)
 # write out 
 write.nexus(trees.subsampled, file="../data/pacus.COI.trees")
 
+# quickly rename the new seqs with GenBank accs
+dat <- read.nexus.data(file="../temp-local-only/pacus.trimmed.nex")
+new <- tissues.df %>% filter(associatedSequences %in% setdiff(pull(tissues.df,associatedSequences),names(dat)))
+names(dat)[which(names(dat) %in% new$otherCatalogNumbers)] <- new$associatedSequences[match(names(dat),new$otherCatalogNumbers)][!is.na(new$associatedSequences[match(names(dat),new$otherCatalogNumbers)])]
+write.nexus.data(dat,file="../temp-local-only/pacus.trimmed.bg.nex",format="dna",interleaved=FALSE)
+
 
 # old checl code
-
+?setdiff
 
 sup.df <- read_csv("../../serrasalmids/data/supplementary_table1.csv")
 
