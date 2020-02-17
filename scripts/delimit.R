@@ -13,18 +13,16 @@ library("parallel")
 source("functions.R")
 
 # read dnas
-dat.all.ali <- as.matrix(as.DNAbin(read.nexus.data("../temp-local-only/pacus.trimmed.nex")))
-dat.haps.ali <- as.matrix(as.DNAbin(read.nexus.data("../temp-local-only/pacus.haps.trimmed.nex")))
+dat.all.ali <- as.matrix(as.DNAbin(read.nexus.data("../data/pacus.all.trimmed.nex")))
+dat.haps.ali <- as.matrix(as.DNAbin(read.nexus.data("../data/pacus.haps.trimmed.nex")))
 
 # load a BEAST tree from the sampled trees
 btr.haps <- ladderize(read.nexus(file="../data/pacus.COI.tre"))
 # for ggtree
 btr.haps.beast <- treeio::read.beast(file="../data/pacus.COI.tre")
 
-# load table and filter
-tissues.df <- read_csv("../data/tissues-master.csv") %>% mutate(identifier=if_else(!is.na(associatedSequences),associatedSequences,otherCatalogNumbers))
-
-#tissues.df %<>% filter(catalogNumber %in% labels(dat.all.ali))
+# load table and make id from gb
+tissues.df <- read_csv("../data/tissues-master.csv") %>% mutate(identifier=associatedSequences)
 
 # get the lists of collapsed haps and all haps
 dat.haps <- clean_dna(dna=dat.haps.ali)
@@ -41,7 +39,7 @@ seqs.in <- mapply(function(x) names(dat.haps.char[x]), seqs.in)
 names(seqs.in) <- names(dat.daughters.char)
 
 # turn into dataframe
-pair.list <- unnest(enframe(seqs.in,name="daughter",value="mother"))
+pair.list <- unnest(tibble::enframe(seqs.in,name="daughter",value="mother"),cols=c(mother))
 
 # annotate and collapse
 haplotype.list <- pair.list %>% mutate(motherDrainage=pull(tissues.df,waterBody)[match(mother,pull(tissues.df,identifier))]) %>% 
@@ -117,7 +115,7 @@ write.tree(tr, file="../temp-local-only/ml.haps.tr.nwk")
 # do mPTP in terminal
 # `mptp --tree_file ml.haps.tr.nwk --output_file ml.haps.tr.nwk.out --ml --single --minbr 0.0001`
 # edit by hand to make the csv file
-mptp.df <- read_csv(file="../temp-local-only/ml.haps.tr.nwk.out.csv")
+mptp.df <- read_csv(file="../data/mptp.results.csv")
 
 
 ## Process the data 
@@ -190,13 +188,12 @@ rm(p)
 
 ## genetic distances
 
-# rerun tissues.df fist
+# rerun tissues.df first
 # subset
-tissues.df %<>% #dplyr::filter(identifier %in% rownames(dat.haps.ali)) %>% 
-    mutate(label=if_else(taxonRank!="species" | !is.na(identificationQualifier), paste0(genus," ",identificationQualifier), paste0(genus," ",specificEpithet))) 
+tissues.df.haps %<>% mutate(label=if_else(taxonRank!="species", paste0(genus," ",identificationQualifier), paste0(genus," ",specificEpithet))) 
 
 # assign spp vector
-sppv <- pull(tissues.df,label)[match(rownames(dat.all.ali),pull(tissues.df,identifier))]
+sppv <- pull(tissues.df.haps,label)[match(rownames(dat.all.ali),pull(tissues.df.haps,identifier))]
 
 # make distance matrices
 dist.mat <- dist.dna(dat.all.ali,model="raw",pairwise.deletion=TRUE)
@@ -215,3 +212,38 @@ dists.df %>%
     arrange(species,desc(nonccondist)) %>% 
     print(n=Inf)
 
+
+### assemble a table
+
+# reformat
+dists.df.red <- dists.df %>% dplyr::rename(identifier=code) %>% dplyr::select(-species)
+delims <- tibble(identifier=all.df[,2], gmyc=all.df[,1], bgmyc=all.df[,3], locmin=all.df[,4], mptp=all.df[,5])
+
+
+# get monophyly
+# fix tree 
+tr$edge.length[which(tr$edge.length < 0)] <- 0
+# make a df
+mono.tab <- tibble(label=unique(tissues.df.haps$label[match(tr$tip.label, tissues.df.haps$identifier)]), monophyly=spider::monophyly(phy=tr, sppVector=tissues.df.haps$label[match(tr$tip.label, tissues.df.haps$identifier)])) 
+
+
+# print out the table 
+tissues.df.haps %>% 
+    dplyr::left_join(dists.df.red,by="identifier") %>% 
+    dplyr::left_join(delims,by="identifier") %>% 
+    dplyr::left_join(mono.tab,by="label") %>% 
+    group_by(label) %>%
+    mutate(indivs=length(unique(identifier)),localities=length(unique(locality)),drainages=length(unique(waterBody))) %>% 
+    mutate(minInterDist=round(min(nonccondist),3),maxIntraDist=round(max(maxintdist),3)) %>%
+    ungroup() %>% 
+    filter(statusHaplotype=="mother") %>%
+    group_by(label,indivs,monophyly,minInterDist,maxIntraDist,localities,drainages) %>%
+    summarise(nHaps=length(unique(identifier)),gmyc=length(unique(gmyc)),bgmyc=length(unique(bgmyc)),mptp=length(unique(mptp)),locmin=length(unique(locmin))) %>%
+    ungroup() %>% 
+    mutate(monophyly=if_else(indivs==1,"Singleton",as.character(monophyly)),monophyly=str_replace_all(monophyly,"TRUE","True"),monophyly=str_replace_all(monophyly,"FALSE","False"),maxIntraDist=if_else(is.na(maxIntraDist),0,maxIntraDist)) %>%
+    dplyr::select(label,indivs,nHaps,drainages,localities,maxIntraDist,minInterDist,monophyly,gmyc,bgmyc,mptp,locmin) %>%
+    dplyr::arrange(label) %>%
+    rename(species=label) %>%
+    #write_csv(path="../temp/species-table.csv")
+    print(n=Inf)
+    
